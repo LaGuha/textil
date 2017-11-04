@@ -1,0 +1,2385 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<!--[if lt IE 9]><script src="http://html5shiv.googlecode.com/svn/trunk/html5.js" data-skip-moving=true></script><![endif]-->
+		<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="keywords" content="Ивановское постельное белье, Текс-дизайн, бязь, сатин, перкаль" />
+<meta name="description" content="Ивановское постельное белье &quot;Текс-Дизайн&quot;. Уникальные дизайны и 100% натуральные ткани." />
+<style type="text/css">.bx-composite-btn {background: url(/bitrix/images/main/composite/sprite-1x.png) no-repeat right 0 #e94524;border-radius: 15px;color: #ffffff !important;display: inline-block;line-height: 30px;font-family: "Helvetica Neue", Helvetica, Arial, sans-serif !important;font-size: 12px !important;font-weight: bold !important;height: 31px !important;padding: 0 42px 0 17px !important;vertical-align: middle !important;text-decoration: none !important;}@media screen   and (min-device-width: 1200px)   and (max-device-width: 1600px)   and (-webkit-min-device-pixel-ratio: 2)  and (min-resolution: 192dpi) {.bx-composite-btn {background-image: url(/bitrix/images/main/composite/sprite-2x.png);background-size: 42px 124px;}}.bx-composite-btn-fixed {position: absolute;top: -45px;right: 15px;z-index: 10;}.bx-btn-white {background-position: right 0;color: #fff !important;}.bx-btn-black {background-position: right -31px;color: #000 !important;}.bx-btn-red {background-position: right -62px;color: #555 !important;}.bx-btn-grey {background-position: right -93px;color: #657b89 !important;}.bx-btn-border {border: 1px solid #d4d4d4;height: 29px !important;line-height: 29px !important;}.bx-composite-loading {display: block;width: 40px;height: 40px;background: url(/bitrix/images/main/composite/loading.gif);}</style>
+<script type="text/javascript" data-skip-moving="true">(function(w, d) {var v = w.frameCacheVars = {'CACHE_MODE':'HTMLCACHE','banner':{'url':'http://www.1c-bitrix.ru/composite/','text':'Быстро с 1С-Битрикс','bgcolor':'#927562','style':'white'},'storageBlocks':[],'dynamicBlocks':{'userPanel':{'hash':'d41d8cd98f00b204e9800998ecf8427e'},'miniBasket':{'hash':'d41d8cd98f00b204e9800998ecf8427e'},'my_dynamic':{'hash':'d41d8cd98f00b204e9800998ecf8427e'}},'AUTO_UPDATE':true,'AUTO_UPDATE_TTL':'0'};var inv = false;if (v.AUTO_UPDATE === false){if (v.AUTO_UPDATE_TTL && v.AUTO_UPDATE_TTL > 0){var lm = Date.parse(d.lastModified);if (!isNaN(lm)){var td = new Date().getTime();if ((lm + v.AUTO_UPDATE_TTL * 1000) >= td){w.frameRequestStart = false;w.preventAutoUpdate = true;return;}inv = true;}}else{w.frameRequestStart = false;w.preventAutoUpdate = true;return;}}var r = w.XMLHttpRequest ? new XMLHttpRequest() : (w.ActiveXObject ? new w.ActiveXObject("Microsoft.XMLHTTP") : null);if (!r) { return; }w.frameRequestStart = true;var m = v.CACHE_MODE; var l = w.location; var x = new Date().getTime();var q = "?bxrand=" + x + (l.search.length > 0 ? "&" + l.search.substring(1) : "");var u = l.protocol + "//" + l.host + l.pathname + q;r.open("GET", u, true);r.setRequestHeader("BX-ACTION-TYPE", "get_dynamic");r.setRequestHeader("BX-CACHE-MODE", m);r.setRequestHeader("BX-CACHE-BLOCKS", v.dynamicBlocks ? JSON.stringify(v.dynamicBlocks) : "");if (inv){r.setRequestHeader("BX-INVALIDATE-CACHE", "Y");}try { r.setRequestHeader("BX-REF", d.referrer || "");} catch(e) {}if (m === "APPCACHE"){r.setRequestHeader("BX-APPCACHE-PARAMS", JSON.stringify(v.PARAMS));r.setRequestHeader("BX-APPCACHE-URL", v.PAGE_URL ? v.PAGE_URL : "");}r.onreadystatechange = function() {if (r.readyState != 4) { return; }var a = r.getResponseHeader("BX-RAND");var b = w.BX && w.BX.frameCache ? w.BX.frameCache : false;if (a != x || !((r.status >= 200 && r.status < 300) || r.status === 304 || r.status === 1223 || r.status === 0)){var f = {error:true, reason:a!=x?"bad_rand":"bad_status", url:u, xhr:r, status:r.status};if (w.BX && w.BX.ready){BX.ready(function() {setTimeout(function(){BX.onCustomEvent("onFrameDataRequestFail", [f]);}, 0);});}else{w.frameRequestFail = f;}return;}if (b){b.onFrameDataReceived(r.responseText);if (!w.frameUpdateInvoked){b.update(false);}w.frameUpdateInvoked = true;}else{w.frameDataString = r.responseText;}};r.send();})(window, document);</script>
+<script type="text/javascript" data-skip-moving="true">(function(w, d, n) {var cl = "bx-core";var ht = d.documentElement;var htc = ht ? ht.className : undefined;if (htc === undefined || htc.indexOf(cl) !== -1){return;}var ua = n.userAgent;if (/(iPad;)|(iPhone;)/i.test(ua)){cl += " bx-ios";}else if (/Android/i.test(ua)){cl += " bx-android";}cl += (/(ipad|iphone|android|mobile|touch)/i.test(ua) ? " bx-touch" : " bx-no-touch");cl += w.devicePixelRatio && w.devicePixelRatio >= 2? " bx-retina": " bx-no-retina";var ieVersion = -1;if (/AppleWebKit/.test(ua)){cl += " bx-chrome";}else if ((ieVersion = getIeVersion()) > 0){cl += " bx-ie bx-ie" + ieVersion;if (ieVersion > 7 && ieVersion < 10 && !isDoctype()){cl += " bx-quirks";}}else if (/Opera/.test(ua)){cl += " bx-opera";}else if (/Gecko/.test(ua)){cl += " bx-firefox";}if (/Macintosh/i.test(ua)){cl += " bx-mac";}ht.className = htc ? htc + " " + cl : cl;function isDoctype(){if (d.compatMode){return d.compatMode == "CSS1Compat";}return d.documentElement && d.documentElement.clientHeight;}function getIeVersion(){if (/Opera/i.test(ua) || /Webkit/i.test(ua) || /Firefox/i.test(ua) || /Chrome/i.test(ua)){return -1;}var rv = -1;if (!!(w.MSStream) && !(w.ActiveXObject) && ("ActiveXObject" in w)){rv = 11;}else if (!!d.documentMode && d.documentMode >= 10){rv = 10;}else if (!!d.documentMode && d.documentMode >= 9){rv = 9;}else if (d.attachEvent && !/Opera/.test(ua)){rv = 8;}if (rv == -1 || rv == 8){var re;if (n.appName == "Microsoft Internet Explorer"){re = new RegExp("MSIE ([0-9]+[\.0-9]*)");if (re.exec(ua) != null){rv = parseFloat(RegExp.$1);}}else if (n.appName == "Netscape"){rv = 11;re = new RegExp("Trident/.*rv:([0-9]+[\.0-9]*)");if (re.exec(ua) != null){rv = parseFloat(RegExp.$1);}}}return rv;}})(window, document, navigator);</script>
+
+
+<link href="/bitrix/cache/css/s1/texdesign_adapt/kernel_main/kernel_main.css?149692346644417" type="text/css"  rel="stylesheet" />
+<link href="/bitrix/cache/css/s1/texdesign_adapt/default_44c7c9b98d2cefd7554606a37905b8d1/default_44c7c9b98d2cefd7554606a37905b8d1.css?149692330232975" type="text/css"  rel="stylesheet" />
+<link href="/bitrix/cache/css/s1/texdesign_adapt/template_926eb73c435cad1331123c0ab36b9f1e/template_926eb73c435cad1331123c0ab36b9f1e.css?149822231693409" type="text/css"  data-template-style="true"  rel="stylesheet" />
+
+
+
+		<title>Ивановское постельное белье от фабрики "Текс-Дизайн"</title>
+		<link rel="shortcut icon" type="image/x-icon" href="/favicon.ico" />
+		<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
+					</head>
+	<body>
+								<div class="wrapper index ">
+						<div class="shadow-panel"></div>
+			<div class="mobile-panel">
+				<ul class="mobile-panel-list row">
+					<li class="js-panel" data-id="pmenu"><span class="mobile-panel__icon"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20"><path d="M0 1.834h17.273v3h-17.273zM0 15.165h17.273v3h-17.273zM0 8.5h12.438v3h-12.438z"/></svg></svg></span>Меню</li>
+					<li class="js-panel" data-id="pcatalog"><span class="mobile-panel__icon"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20"><path d="M16.879 3.949l-9.949-3.708c-.2-.079-2.049-.757-3.503.587-.485.448-.76 1.117-.734 1.788l.039.33v12.389c0 .271.166.515.419.614l10.168 4.005c.078.031.16.046.243.046.131 0 .261-.038.372-.114.181-.123.289-.327.289-.547v-.348l2.015-1.894c.113.092.254.147.411.147.365 0 .66-.297.66-.661v-12.014c0-.277-.171-.524-.43-.62zm-12.553-2.149c.876-.812 2.066-.35 2.112-.331l.022.009 9.189 3.425-2.007 1.887-9.525-3.889c-.059-.077-.097-.197-.102-.336-.011-.285.108-.579.311-.765zm8.574 16.568l-8.846-3.484v-10.579l8.846 3.611v10.452zm1.322-10.912l1.765-1.66v10.327l-1.764 1.658v-10.309l-.001-.016zM5.995 9.025l4.255 1.738c.083.033.167.049.25.049.261 0 .507-.155.612-.412.138-.338-.024-.724-.362-.862l-4.255-1.738c-.338-.137-.724.025-.862.363-.138.338.024.724.362.862zM5.995 11.854l4.255 1.738c.083.033.167.049.25.049.261 0 .507-.155.612-.412.138-.338-.024-.723-.362-.861l-4.255-1.738c-.337-.138-.724.023-.862.362s.024.725.362.862z"/></svg></span>Каталог</li>
+					<li class="js-panel" data-id="pbasket"><span class="mobile-panel__icon"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20"><circle cx="9.295" cy="16.622" r="1.428"/><circle cx="16.118" cy="16.622" r="1.428"/><path d="M17.794 12.61h-9.938l-3.421-10.167c-.099-.295-.375-.493-.687-.493h-3.023c-.401 0-.725.324-.725.725 0 .401.324.725.725.725h2.502l3.42 10.167c.1.296.377.494.688.494h10.459c.401 0 .727-.324.727-.726 0-.399-.326-.725-.727-.725zM19.351 4.696l-12.304-1.071c-.398-.035-.618.246-.491.624l2.15 6.384c.127.379.559.688.957.688h8.981c.398 0 .76-.325.803-.722l.549-5.119c.042-.395-.248-.749-.645-.784z"/></svg></span>Корзина</li>
+				</ul>
+			</div>
+
+			<header class="header">
+				<div class="header-container">
+					<div class="header-top row">
+						<ul class="user-panel row" id="user-top-panel">
+													</ul>
+					</div>
+					<div class="header-middle row">
+						<div class="logotype"><a  title=""></a></div>
+						<div class="slogan">Официальный интернет-магазин от производителя</div>
+						<div class="search-block">
+							<form action="/search/" method="get">
+								<input type="text" name="q" value="" placeholder="поиск по сайту">
+								<button type="submit" class="button-search" value="&nbsp;"></button>
+							</form>
+						</div>
+						<div class="phone-block">
+							<div class="phone">
+								8(495)768-26-40							</div>
+							<div class="phone">8(800)234-54-94</div>
+							<div class="recall-block"><a href="javascript:void(0)" onclick="yaCounter21397981.reachGoal('callback'); return true;" class="popup" rel="popup-recall">Заказать обратный звонок</a></div>
+						</div>
+						<div class="mini-basket" id="min-b"></div>
+					</div>
+				</div>
+				<div class="menu-block">
+						<ul class="menu">
+														<li class="active"><a href="/">Главная</a></li>
+																					<li class="a-active"><a href="/action/">Акции</a></li>
+																					<li><a href="/garantiya/">Гарантия</a></li>
+																					<li><a href="/vozvrat-i-obmen/">Возврат и обмен</a></li>
+																					<li><a href="/delivery/">Доставка</a></li>
+																					<li><a href="/company/">О компании</a></li>
+																					<li><a href="/reviews/">Отзывы</a></li>
+																					<li><a href="/news/">Новости</a></li>
+																					<li><a href="/article/">Статьи</a></li>
+																					<li><a href="/contacts/">Контакты</a></li>
+										</ul>
+				</div>
+			</header>
+							<div class="top-district">
+					<div class="top-district-container row">
+						<div class="top-menu-block">
+								<ul class="catalog-menu">
+									<li class="">
+					<span></span>
+					<a href="/catalog/postelnoe_bele/">Постельное белье</a>
+					<ul class="submenu">
+															<li class="">
+					<a href="/catalog/postelnoe_bele/byaz/">Бязь</a>
+				</li>
+															<li class="">
+					<a href="/catalog/postelnoe_bele/byaz_zima_leto/">Бязь зима-лето</a>
+				</li>
+															<li class="">
+					<a href="/catalog/postelnoe_bele/perkal/">Перкаль</a>
+				</li>
+															<li class="">
+					<a href="/catalog/postelnoe_bele/satin/">Сатин</a>
+				</li>
+															<li class="">
+					<a href="/catalog/postelnoe_bele/strayp_satin/">Страйп-сатин</a>
+				</li>
+															<li class="">
+					<a href="/catalog/postelnoe_bele/detskaya_byaz/">Детская бязь</a>
+				</li>
+															<li class="">
+					<a href="/catalog/postelnoe_bele/na_rezinke_1/">На резинке</a>
+				</li>
+															<li class="">
+					<a href="/catalog/postelnoe_bele/detskaya_kulirka/">Детская кулирка</a>
+				</li>
+						</ul></li>									<li class="">
+					<span></span>
+					<a href="/catalog/prostyni/">Простыни</a>
+					<ul class="submenu">
+															<li class="">
+					<a href="/catalog/prostyni/na_rezinke/">На резинке</a>
+				</li>
+															<li class="">
+					<a href="/catalog/prostyni/makhrovye/">Махровые</a>
+				</li>
+						</ul></li>									<li class="">
+					<span></span>
+					<a href="/catalog/polotentsa/">Полотенца</a>
+					<ul class="submenu">
+															<li class="">
+					<a href="/catalog/polotentsa/makhrovye_1/">Махровые</a>
+				</li>
+															<li class="">
+					<a href="/catalog/polotentsa/vafelnye/">Вафельные</a>
+				</li>
+															<li class="">
+					<a href="/catalog/polotentsa/nabory/">Наборы</a>
+				</li>
+						</ul></li>									<li class="">
+					<span></span>
+					<a href="/catalog/pledy/">Пледы</a>
+					<ul class="submenu">
+															<li class="">
+					<a href="/catalog/pledy/velsoft/">Велсофт</a>
+				</li>
+															<li class="">
+					<a href="/catalog/pledy/vyazanyy/">Вязаный</a>
+				</li>
+						</ul></li>									<li class="">
+					<span></span>
+					<a href="/catalog/pokryvala/">Покрывала</a>
+					<ul class="submenu">
+															<li class="">
+					<a href="/catalog/pokryvala/satin_1/">Сатин</a>
+				</li>
+															<li class="">
+					<a href="/catalog/pokryvala/perkal_1/">Перкаль</a>
+				</li>
+															<li class="">
+					<a href="/catalog/pokryvala/byaz_1/">Бязь</a>
+				</li>
+															<li class="">
+					<a href="/catalog/pokryvala/detskie/">Детские</a>
+				</li>
+						</ul></li>									<li class="">
+					<span></span>
+					<a href="/catalog/odeyala/">Одеяла</a>
+					<ul class="submenu">
+															<li class="">
+					<a href="/catalog/odeyala/bambuk_khlopok/">Бамбук-хлопок</a>
+				</li>
+															<li class="">
+					<a href="/catalog/odeyala/len_khlopok/">Лен-хлопок</a>
+				</li>
+						</ul></li>									<li class="">
+					<span></span>
+					<a href="/catalog/dlya_kukhni/">Для кухни</a>
+					<ul class="submenu">
+															<li class="">
+					<a href="/catalog/dlya_kukhni/skaterti/">Скатерти</a>
+				</li>
+															<li class="">
+					<a href="/catalog/dlya_kukhni/salfetki/">Салфетки</a>
+				</li>
+															<li class="">
+					<a href="/catalog/dlya_kukhni/nabory_1/">Наборы</a>
+				</li>
+						</ul></li>									<li class="">
+					<span></span>
+					<a href="/catalog/navolochki/">Наволочки</a>
+					<ul class="submenu">
+															<li class="">
+					<a href="/catalog/navolochki/trikotazhnye/">Трикотажные</a>
+				</li>
+															<li class="">
+					<a href="/catalog/navolochki/perkal_2/">Перкаль</a>
+				</li>
+															<li class="">
+					<a href="/catalog/navolochki/strayp_satin_1/">Страйп-сатин</a>
+				</li>
+															<li class="">
+					<a href="/catalog/navolochki/satin_2/">Сатин</a>
+				</li>
+						</ul></li>			</ul>
+<div class="clear"></div>						</div>
+						<div class="top-slider-block">
+	<div class="slider-block">
+			<div class="slider">
+											<div class="slide" id="bx_3218110189_19022"><a href="http://texdesign-shop.ru/catalog/postelnoe_bele/?set_filter=%C2%A0&arrFilter_P1_MIN=&arrFilter_P1_MAX=&arrFilter_392_2556900557=Y"><img src="/upload/iblock/593/5937c1f0c5e5aa371804644d0b485572.jpg" alt=""></a></div>
+															<div class="slide" id="bx_3218110189_19021"><a href="http://texdesign-shop.ru/action/aktsiya-1/"><img src="/upload/iblock/f06/f06f129bea944d2915289f8c59790110.jpg" alt=""></a></div>
+															<div class="slide" id="bx_3218110189_14598"><a href="http://texdesign-shop.ru/catalog/pokryvala/"><img src="/upload/iblock/7c3/7c39ec8ff778a13d135594f23eca0a90.jpg" alt=""></a></div>
+															<div class="slide" id="bx_3218110189_15687"><a href="http://texdesign-shop.ru/catalog/odeyala/ "><img src="/upload/iblock/c85/c859a26ceda5b52a1dc59ec5767026df.jpg" alt=""></a></div>
+															<div class="slide" id="bx_3218110189_15688"><a href="http://texdesign-shop.ru/catalog/postelnoe_bele/byaz_zima_leto/"><img src="/upload/iblock/668/668abc9367ee6181c9d1733dee0e0796.jpg" alt=""></a></div>
+							</div>
+	</div>
+	<ul class="advantage-block row">
+		<li class="item1">
+			<div class="image"></div>
+			<div class="text">Бесплатная доставка</div>
+		</li>
+		<li class="item2">
+			<div class="image"></div>
+			<div class="text">Оплата при получении</div>
+		</li>
+		<li class="item3">
+			<div class="image"></div>
+			<div class="text">Высшее качество</div>
+		</li>
+	</ul>
+</div>					</div>
+				</div>
+						<main class="content">
+				<div class="wrap row">
+					<div class="up"></div>
+											<div class="head"><span>Домашний текстиль высшего качества</span></div>
+												<div class="sales-block new row">
+	<div class="sale-block-head">
+		<div class="title"><a href="/catalog/new/">Новинки</a>
+		</div>
+	</div>
+	<div class="carousel-sales-block">
+				<div class="sales-carousel">
+							<div id="bx_130013961_19355">
+					<div class="element ">
+						<div class="element-container">
+							<div class="image-container">
+								<div class="image" onclick="location.href='/catalog/postelnoe_bele/byaz/buduar_4/'; return false">
+																		<img src="/upload/resize_cache/iblock/aa0/226_194_2/aa09c592ac0471a0a7b97913d7563a07.jpg" alt="">
+									<a href="" title="" class="dropQuickID" id="19355"></a>
+									<div class="quick-over">Быстрый просмотр</div>
+								</div>
+								<div class="element-label new-label"></div>
+							</div>
+							<div class="rate-block row">
+								<ul class="rate-stars row">
+																			<li class="star"></li>
+																			<li class="star"></li>
+																			<li class="star"></li>
+																			<li class="star"></li>
+																			<li class="star"></li>
+																	</ul>
+								<div class="review-value">
+									<a href="/catalog/postelnoe_bele/byaz/buduar_4/">
+									<span>0</span>
+									отзывов</a>
+								</div>
+								<div class="likes">0</div>
+							</div>
+							<div class="element-name">Постельное белье, бязь, <strong>Будуар 4</strong></div>
+							<div class="coin-block row">
+								<div class="new-cena">
+																от 1 590 р.
+
+								</div>
+								<a href="/catalog/postelnoe_bele/byaz/buduar_4/" title="" class="more-green" onclick="yaCounter21397981.reachGoal('detailed'); return true;">Подробнее</a>
+								<div class="popup-window">
+									<div class="title">Товар добавлен в корзину</div>
+									<div class="close"></div>
+									<ul class="popup-window-list">
+										<li class="goto"><a href="" title="">Перейти в корзину</a></li>
+										<li class="goout"><a href="" title="">Продолжить покупки</a></li>
+									</ul>
+								</div>
+							</div>
+															<ul class="element-size">
+																		<li><span>Размер:</span>  2,0</li>
+									<li><span>Остальные размеры:</span> 2,0;  2,0 евро;  евро1 2 нав.;  семейный 2 нав.</li>
+								</ul>
+														<ul class="galery-list">
+																	<li><img src="/upload/resize_cache/iblock/66b/86_72_2/66ba29c3a756934dc72dec0084c9a172.jpg" alt=""></li>
+																	<li><img src="/upload/resize_cache/iblock/5e1/86_72_2/5e1f84f07d302ac3c62c9c781529bf75.jpg" alt=""></li>
+															</ul>
+						</div>
+					</div>
+				</div>
+							<div id="bx_130013961_19315">
+					<div class="element ">
+						<div class="element-container">
+							<div class="image-container">
+								<div class="image" onclick="location.href='/catalog/postelnoe_bele/byaz/koketka/'; return false">
+																		<img src="/upload/resize_cache/iblock/88d/226_194_2/88d620ff0423694221f2d52043fb3859.jpg" alt="">
+									<a href="" title="" class="dropQuickID" id="19315"></a>
+									<div class="quick-over">Быстрый просмотр</div>
+								</div>
+								<div class="element-label new-label"></div>
+							</div>
+							<div class="rate-block row">
+								<ul class="rate-stars row">
+																			<li class="star"></li>
+																			<li class="star"></li>
+																			<li class="star"></li>
+																			<li class="star"></li>
+																			<li class="star"></li>
+																	</ul>
+								<div class="review-value">
+									<a href="/catalog/postelnoe_bele/byaz/koketka/">
+									<span>0</span>
+									отзывов</a>
+								</div>
+								<div class="likes">0</div>
+							</div>
+							<div class="element-name">Постельное белье, бязь, <strong>Кокетка</strong></div>
+							<div class="coin-block row">
+								<div class="new-cena">
+																от 1 590 р.
+
+								</div>
+								<a href="/catalog/postelnoe_bele/byaz/koketka/" title="" class="more-green" onclick="yaCounter21397981.reachGoal('detailed'); return true;">Подробнее</a>
+								<div class="popup-window">
+									<div class="title">Товар добавлен в корзину</div>
+									<div class="close"></div>
+									<ul class="popup-window-list">
+										<li class="goto"><a href="" title="">Перейти в корзину</a></li>
+										<li class="goout"><a href="" title="">Продолжить покупки</a></li>
+									</ul>
+								</div>
+							</div>
+															<ul class="element-size">
+																		<li><span>Размер:</span>  2,0</li>
+									<li><span>Остальные размеры:</span> 2,0;  2,0 евро;  евро1 2 нав.;  евро2 2 нав.;  семейный 2 нав.</li>
+								</ul>
+														<ul class="galery-list">
+																	<li><img src="/upload/resize_cache/iblock/ca7/86_72_2/ca71e10c419532d54d7d362642dc5c78.jpg" alt=""></li>
+															</ul>
+						</div>
+					</div>
+				</div>
+							<div id="bx_130013961_19311">
+					<div class="element ">
+						<div class="element-container">
+							<div class="image-container">
+								<div class="image" onclick="location.href='/catalog/postelnoe_bele/byaz/zima/'; return false">
+																		<img src="/upload/resize_cache/iblock/f6b/226_194_2/f6bb7fae89ba6104bf21c54198ac3471.jpg" alt="">
+									<a href="" title="" class="dropQuickID" id="19311"></a>
+									<div class="quick-over">Быстрый просмотр</div>
+								</div>
+								<div class="element-label new-label"></div>
+							</div>
+							<div class="rate-block row">
+								<ul class="rate-stars row">
+																			<li class="star"></li>
+																			<li class="star"></li>
+																			<li class="star"></li>
+																			<li class="star"></li>
+																			<li class="star"></li>
+																	</ul>
+								<div class="review-value">
+									<a href="/catalog/postelnoe_bele/byaz/zima/">
+									<span>0</span>
+									отзывов</a>
+								</div>
+								<div class="likes">0</div>
+							</div>
+							<div class="element-name">Постельное белье, бязь, <strong>Зима</strong></div>
+							<div class="coin-block row">
+								<div class="new-cena">
+																от 1 590 р.
+
+								</div>
+								<a href="/catalog/postelnoe_bele/byaz/zima/" title="" class="more-green" onclick="yaCounter21397981.reachGoal('detailed'); return true;">Подробнее</a>
+								<div class="popup-window">
+									<div class="title">Товар добавлен в корзину</div>
+									<div class="close"></div>
+									<ul class="popup-window-list">
+										<li class="goto"><a href="" title="">Перейти в корзину</a></li>
+										<li class="goout"><a href="" title="">Продолжить покупки</a></li>
+									</ul>
+								</div>
+							</div>
+															<ul class="element-size">
+																		<li><span>Размер:</span>  2,0</li>
+									<li><span>Остальные размеры:</span> 2,0;  2,0 евро;  евро1 2 нав.;  семейный 2 нав.</li>
+								</ul>
+														<ul class="galery-list">
+																	<li><img src="/upload/resize_cache/iblock/a4b/86_72_2/a4bc2c27a16ce39b3b8f19dbd634685d.jpg" alt=""></li>
+																	<li><img src="/upload/resize_cache/iblock/afa/86_72_2/afa85170141fefa4957c9a60571fbec6.jpg" alt=""></li>
+															</ul>
+						</div>
+					</div>
+				</div>
+							<div id="bx_130013961_19310">
+					<div class="element ">
+						<div class="element-container">
+							<div class="image-container">
+								<div class="image" onclick="location.href='/catalog/postelnoe_bele/byaz/duglas_1b/'; return false">
+																		<img src="/upload/resize_cache/iblock/53a/226_194_2/53ac500dd4f0c2242f5b0d920e0c896f.jpg" alt="">
+									<a href="" title="" class="dropQuickID" id="19310"></a>
+									<div class="quick-over">Быстрый просмотр</div>
+								</div>
+								<div class="element-label new-label"></div>
+							</div>
+							<div class="rate-block row">
+								<ul class="rate-stars row">
+																			<li class="star"></li>
+																			<li class="star"></li>
+																			<li class="star"></li>
+																			<li class="star"></li>
+																			<li class="star"></li>
+																	</ul>
+								<div class="review-value">
+									<a href="/catalog/postelnoe_bele/byaz/duglas_1b/">
+									<span>0</span>
+									отзывов</a>
+								</div>
+								<div class="likes">0</div>
+							</div>
+							<div class="element-name">Постельное белье, бязь, <strong>Дуглас 1б</strong></div>
+							<div class="coin-block row">
+								<div class="new-cena">
+																от 1 590 р.
+
+								</div>
+								<a href="/catalog/postelnoe_bele/byaz/duglas_1b/" title="" class="more-green" onclick="yaCounter21397981.reachGoal('detailed'); return true;">Подробнее</a>
+								<div class="popup-window">
+									<div class="title">Товар добавлен в корзину</div>
+									<div class="close"></div>
+									<ul class="popup-window-list">
+										<li class="goto"><a href="" title="">Перейти в корзину</a></li>
+										<li class="goout"><a href="" title="">Продолжить покупки</a></li>
+									</ul>
+								</div>
+							</div>
+															<ul class="element-size">
+																		<li><span>Размер:</span>  2,0</li>
+									<li><span>Остальные размеры:</span> 2,0;  2,0 евро;  евро1 2 нав.;  семейный 2 нав.</li>
+								</ul>
+														<ul class="galery-list">
+																	<li><img src="/upload/resize_cache/iblock/e30/86_72_2/e30e12d2b7a410e5d8b534319c50c4e6.jpg" alt=""></li>
+																	<li><img src="/upload/resize_cache/iblock/31a/86_72_2/31a15620f55b85db859a03019c33ab51.jpg" alt=""></li>
+																	<li><img src="/upload/resize_cache/iblock/0ac/86_72_2/0ac90eadcaec52eaf65dcb8e83d2f839.jpg" alt=""></li>
+																	<li><img src="/upload/resize_cache/iblock/15b/86_72_2/15b977bf548ff3d18d54e53a114ca3e1.jpg" alt=""></li>
+															</ul>
+						</div>
+					</div>
+				</div>
+							<div id="bx_130013961_19309">
+					<div class="element ">
+						<div class="element-container">
+							<div class="image-container">
+								<div class="image" onclick="location.href='/catalog/postelnoe_bele/byaz/damask/'; return false">
+																		<img src="/upload/resize_cache/iblock/175/226_194_2/175bc7faab637ce965ac9c1b03491102.jpg" alt="">
+									<a href="" title="" class="dropQuickID" id="19309"></a>
+									<div class="quick-over">Быстрый просмотр</div>
+								</div>
+								<div class="element-label new-label"></div>
+							</div>
+							<div class="rate-block row">
+								<ul class="rate-stars row">
+																			<li class="star"></li>
+																			<li class="star"></li>
+																			<li class="star"></li>
+																			<li class="star"></li>
+																			<li class="star"></li>
+																	</ul>
+								<div class="review-value">
+									<a href="/catalog/postelnoe_bele/byaz/damask/">
+									<span>0</span>
+									отзывов</a>
+								</div>
+								<div class="likes">0</div>
+							</div>
+							<div class="element-name">Постельное белье, бязь, <strong>Дамаск</strong></div>
+							<div class="coin-block row">
+								<div class="new-cena">
+																от 1 590 р.
+
+								</div>
+								<a href="/catalog/postelnoe_bele/byaz/damask/" title="" class="more-green" onclick="yaCounter21397981.reachGoal('detailed'); return true;">Подробнее</a>
+								<div class="popup-window">
+									<div class="title">Товар добавлен в корзину</div>
+									<div class="close"></div>
+									<ul class="popup-window-list">
+										<li class="goto"><a href="" title="">Перейти в корзину</a></li>
+										<li class="goout"><a href="" title="">Продолжить покупки</a></li>
+									</ul>
+								</div>
+							</div>
+															<ul class="element-size">
+																		<li><span>Размер:</span>  2,0</li>
+									<li><span>Остальные размеры:</span> 2,0;  2,0 евро;  евро1 2 нав.;  семейный 2 нав.</li>
+								</ul>
+														<ul class="galery-list">
+																	<li><img src="/upload/resize_cache/iblock/2fc/86_72_2/2fc6ec3c3bb07db994198b60ec5c64d5.jpg" alt=""></li>
+															</ul>
+						</div>
+					</div>
+				</div>
+							<div id="bx_130013961_19122">
+					<div class="element ">
+						<div class="element-container">
+							<div class="image-container">
+								<div class="image" onclick="location.href='/catalog/postelnoe_bele/byaz/arabeski/'; return false">
+																		<img src="/upload/resize_cache/iblock/ea5/226_194_2/ea504358abdbd045cf89488df8842a56.jpg" alt="">
+									<a href="" title="" class="dropQuickID" id="19122"></a>
+									<div class="quick-over">Быстрый просмотр</div>
+								</div>
+								<div class="element-label new-label"></div>
+							</div>
+							<div class="rate-block row">
+								<ul class="rate-stars row">
+																			<li class="star"></li>
+																			<li class="star"></li>
+																			<li class="star"></li>
+																			<li class="star"></li>
+																			<li class="star"></li>
+																	</ul>
+								<div class="review-value">
+									<a href="/catalog/postelnoe_bele/byaz/arabeski/">
+									<span>0</span>
+									отзывов</a>
+								</div>
+								<div class="likes">1</div>
+							</div>
+							<div class="element-name">Постельное белье, бязь, <strong>Арабески</strong></div>
+							<div class="coin-block row">
+								<div class="new-cena">
+																от 1 590 р.
+
+								</div>
+								<a href="/catalog/postelnoe_bele/byaz/arabeski/" title="" class="more-green" onclick="yaCounter21397981.reachGoal('detailed'); return true;">Подробнее</a>
+								<div class="popup-window">
+									<div class="title">Товар добавлен в корзину</div>
+									<div class="close"></div>
+									<ul class="popup-window-list">
+										<li class="goto"><a href="" title="">Перейти в корзину</a></li>
+										<li class="goout"><a href="" title="">Продолжить покупки</a></li>
+									</ul>
+								</div>
+							</div>
+															<ul class="element-size">
+																		<li><span>Размер:</span>  2,0</li>
+									<li><span>Остальные размеры:</span> 2,0;  2,0 евро;  евро1 2 нав.;  семейный 2 нав.</li>
+								</ul>
+														<ul class="galery-list">
+																	<li><img src="/upload/resize_cache/iblock/99a/86_72_2/99a0bf0ea648cc819c8a8b6753f2b0e6.jpg" alt=""></li>
+															</ul>
+						</div>
+					</div>
+				</div>
+							<div id="bx_130013961_19121">
+					<div class="element ">
+						<div class="element-container">
+							<div class="image-container">
+								<div class="image" onclick="location.href='/catalog/postelnoe_bele/byaz/anastasiya_1b/'; return false">
+																		<img src="/upload/resize_cache/iblock/7c8/226_194_2/7c811b97fd310fa93afdaa28084c8d25.jpg" alt="">
+									<a href="" title="" class="dropQuickID" id="19121"></a>
+									<div class="quick-over">Быстрый просмотр</div>
+								</div>
+								<div class="element-label new-label"></div>
+							</div>
+							<div class="rate-block row">
+								<ul class="rate-stars row">
+																			<li class="star"></li>
+																			<li class="star"></li>
+																			<li class="star"></li>
+																			<li class="star"></li>
+																			<li class="star"></li>
+																	</ul>
+								<div class="review-value">
+									<a href="/catalog/postelnoe_bele/byaz/anastasiya_1b/">
+									<span>0</span>
+									отзывов</a>
+								</div>
+								<div class="likes">4</div>
+							</div>
+							<div class="element-name">Постельное белье, бязь, <strong>Анастасия 1б</strong></div>
+							<div class="coin-block row">
+								<div class="new-cena">
+																от 1 590 р.
+
+								</div>
+								<a href="/catalog/postelnoe_bele/byaz/anastasiya_1b/" title="" class="more-green" onclick="yaCounter21397981.reachGoal('detailed'); return true;">Подробнее</a>
+								<div class="popup-window">
+									<div class="title">Товар добавлен в корзину</div>
+									<div class="close"></div>
+									<ul class="popup-window-list">
+										<li class="goto"><a href="" title="">Перейти в корзину</a></li>
+										<li class="goout"><a href="" title="">Продолжить покупки</a></li>
+									</ul>
+								</div>
+							</div>
+															<ul class="element-size">
+																		<li><span>Размер:</span>  2,0</li>
+									<li><span>Остальные размеры:</span> 2,0;  2,0 евро;  евро1 2 нав.;  семейный 2 нав.</li>
+								</ul>
+														<ul class="galery-list">
+																	<li><img src="/upload/resize_cache/iblock/fc6/86_72_2/fc647b325593e64b7314fa32b524a5f4.jpg" alt=""></li>
+															</ul>
+						</div>
+					</div>
+				</div>
+							<div id="bx_130013961_19120">
+					<div class="element ">
+						<div class="element-container">
+							<div class="image-container">
+								<div class="image" onclick="location.href='/catalog/postelnoe_bele/byaz/azhur/'; return false">
+																		<img src="/upload/resize_cache/iblock/707/226_194_2/707731a74206c38fd519560f37398995.jpg" alt="">
+									<a href="" title="" class="dropQuickID" id="19120"></a>
+									<div class="quick-over">Быстрый просмотр</div>
+								</div>
+								<div class="element-label new-label"></div>
+							</div>
+							<div class="rate-block row">
+								<ul class="rate-stars row">
+																			<li class="star"></li>
+																			<li class="star"></li>
+																			<li class="star"></li>
+																			<li class="star"></li>
+																			<li class="star"></li>
+																	</ul>
+								<div class="review-value">
+									<a href="/catalog/postelnoe_bele/byaz/azhur/">
+									<span>0</span>
+									отзывов</a>
+								</div>
+								<div class="likes">0</div>
+							</div>
+							<div class="element-name">Постельное белье, бязь, <strong>Ажур</strong></div>
+							<div class="coin-block row">
+								<div class="new-cena">
+																от 1 590 р.
+
+								</div>
+								<a href="/catalog/postelnoe_bele/byaz/azhur/" title="" class="more-green" onclick="yaCounter21397981.reachGoal('detailed'); return true;">Подробнее</a>
+								<div class="popup-window">
+									<div class="title">Товар добавлен в корзину</div>
+									<div class="close"></div>
+									<ul class="popup-window-list">
+										<li class="goto"><a href="" title="">Перейти в корзину</a></li>
+										<li class="goout"><a href="" title="">Продолжить покупки</a></li>
+									</ul>
+								</div>
+							</div>
+															<ul class="element-size">
+																		<li><span>Размер:</span>  2,0</li>
+									<li><span>Остальные размеры:</span> 2,0;  2,0 евро;  евро1 2 нав.;  семейный 2 нав.</li>
+								</ul>
+														<ul class="galery-list">
+																	<li><img src="/upload/resize_cache/iblock/6b7/86_72_2/6b7de9d4a7cc6832239397c028e9731f.jpg" alt=""></li>
+															</ul>
+						</div>
+					</div>
+				</div>
+							<div id="bx_130013961_19119">
+					<div class="element ">
+						<div class="element-container">
+							<div class="image-container">
+								<div class="image" onclick="location.href='/catalog/postelnoe_bele/byaz/adel_2/'; return false">
+																		<img src="/upload/resize_cache/iblock/e6c/226_194_2/e6cc8badca0e4f4aac481c83359a4a7d.jpg" alt="">
+									<a href="" title="" class="dropQuickID" id="19119"></a>
+									<div class="quick-over">Быстрый просмотр</div>
+								</div>
+								<div class="element-label new-label"></div>
+							</div>
+							<div class="rate-block row">
+								<ul class="rate-stars row">
+																			<li class="star"></li>
+																			<li class="star"></li>
+																			<li class="star"></li>
+																			<li class="star"></li>
+																			<li class="star"></li>
+																	</ul>
+								<div class="review-value">
+									<a href="/catalog/postelnoe_bele/byaz/adel_2/">
+									<span>0</span>
+									отзывов</a>
+								</div>
+								<div class="likes">0</div>
+							</div>
+							<div class="element-name">Постельное белье, бязь, <strong>Адель 2</strong></div>
+							<div class="coin-block row">
+								<div class="new-cena">
+																от 1 590 р.
+
+								</div>
+								<a href="/catalog/postelnoe_bele/byaz/adel_2/" title="" class="more-green" onclick="yaCounter21397981.reachGoal('detailed'); return true;">Подробнее</a>
+								<div class="popup-window">
+									<div class="title">Товар добавлен в корзину</div>
+									<div class="close"></div>
+									<ul class="popup-window-list">
+										<li class="goto"><a href="" title="">Перейти в корзину</a></li>
+										<li class="goout"><a href="" title="">Продолжить покупки</a></li>
+									</ul>
+								</div>
+							</div>
+															<ul class="element-size">
+																		<li><span>Размер:</span>  2,0</li>
+									<li><span>Остальные размеры:</span> 2,0;  2,0 евро;  евро1 2 нав.;  евро2 2 нав.;  семейный 2 нав.</li>
+								</ul>
+														<ul class="galery-list">
+																	<li><img src="/upload/resize_cache/iblock/9ce/86_72_2/9ce529071e3c19af4bbad6223f181499.jpg" alt=""></li>
+															</ul>
+						</div>
+					</div>
+				</div>
+					</div>
+	</div>
+</div>
+						<div class="sales-block hit row">
+	<div class="sale-block-head">
+		<div class="title"><a href="/catalog/hit/">Хиты продаж</a>
+		</div>
+	</div>
+	<div class="carousel-sales-block">
+				<div class="sales-carousel">
+							<div id="bx_1891167135_14632">
+					<div class="element ">
+						<div class="element-container">
+							<div class="image-container">
+								<div class="image" onclick="location.href='/catalog/postelnoe_bele/perkal/venzel_1/'; return false">
+																		<img src="/upload/resize_cache/iblock/b2e/226_194_2/b2e50264bf40f04036574379f13a713f.jpg" alt="">
+									<a href="" title="" class="dropQuickID" id="14632"></a>
+									<div class="quick-over">Быстрый просмотр</div>
+								</div>
+								<div class="element-label hit-label"></div>
+							</div>
+							<div class="rate-block row">
+								<ul class="rate-stars row">
+																			<li class="star blink"></li>
+																			<li class="star blink"></li>
+																			<li class="star blink"></li>
+																			<li class="star blink"></li>
+																			<li class="star blink"></li>
+																	</ul>
+								<div class="review-value">
+									<a href="/catalog/postelnoe_bele/perkal/venzel_1/">
+									<span>3</span>
+									отзыва</a>
+								</div>
+								<div class="likes">173</div>
+							</div>
+							<div class="element-name">Постельное белье, перкаль, <strong>Вензель 1</strong></div>
+							<div class="coin-block row">
+								<div class="new-cena">
+																от 1 680 р.
+
+								</div>
+								<a href="/catalog/postelnoe_bele/perkal/venzel_1/" title="" class="more-green" onclick="yaCounter21397981.reachGoal('detailed'); return true;">Подробнее</a>
+								<div class="popup-window">
+									<div class="title">Товар добавлен в корзину</div>
+									<div class="close"></div>
+									<ul class="popup-window-list">
+										<li class="goto"><a href="" title="">Перейти в корзину</a></li>
+										<li class="goout"><a href="" title="">Продолжить покупки</a></li>
+									</ul>
+								</div>
+							</div>
+															<ul class="element-size">
+																		<li><span>Размер:</span>  1,5</li>
+									<li><span>Остальные размеры:</span> 1,5;  2,0;  2,0 евро;  евро1 2 нав.;  евро2 2 нав.</li>
+								</ul>
+														<ul class="galery-list">
+																	<li><img src="/upload/resize_cache/iblock/b49/86_72_2/b49fa32c64662266212d5cacc19ae2f5.jpg" alt=""></li>
+																	<li><img src="/upload/resize_cache/iblock/584/86_72_2/5847a682aa6806a9610d588e3933aa5d.jpg" alt=""></li>
+															</ul>
+						</div>
+					</div>
+				</div>
+							<div id="bx_1891167135_12152">
+					<div class="element ">
+						<div class="element-container">
+							<div class="image-container">
+								<div class="image" onclick="location.href='/catalog/postelnoe_bele/perkal/madonna_2/'; return false">
+																		<img src="/upload/resize_cache/iblock/3a4/226_194_2/3a47613a0c986541342e6bb0d073702d.jpg" alt="">
+									<a href="" title="" class="dropQuickID" id="12152"></a>
+									<div class="quick-over">Быстрый просмотр</div>
+								</div>
+								<div class="element-label hit-label"></div>
+							</div>
+							<div class="rate-block row">
+								<ul class="rate-stars row">
+																			<li class="star"></li>
+																			<li class="star"></li>
+																			<li class="star"></li>
+																			<li class="star"></li>
+																			<li class="star"></li>
+																	</ul>
+								<div class="review-value">
+									<a href="/catalog/postelnoe_bele/perkal/madonna_2/">
+									<span>0</span>
+									отзывов</a>
+								</div>
+								<div class="likes">63</div>
+							</div>
+							<div class="element-name">Постельное белье, перкаль, <strong>Мадонна 2</strong></div>
+							<div class="coin-block row">
+								<div class="new-cena">
+																от 1 680 р.
+
+								</div>
+								<a href="/catalog/postelnoe_bele/perkal/madonna_2/" title="" class="more-green" onclick="yaCounter21397981.reachGoal('detailed'); return true;">Подробнее</a>
+								<div class="popup-window">
+									<div class="title">Товар добавлен в корзину</div>
+									<div class="close"></div>
+									<ul class="popup-window-list">
+										<li class="goto"><a href="" title="">Перейти в корзину</a></li>
+										<li class="goout"><a href="" title="">Продолжить покупки</a></li>
+									</ul>
+								</div>
+							</div>
+															<ul class="element-size">
+																		<li><span>Размер:</span>  1,5</li>
+									<li><span>Остальные размеры:</span> 1,5;  2,0;  2,0 евро 2 нав.;  евро1 2 нав.;  евро2 2 нав.</li>
+								</ul>
+														<ul class="galery-list">
+																	<li><img src="/upload/resize_cache/iblock/d19/86_72_2/d191249c55477f63f5645062fcbf9897.jpg" alt=""></li>
+																	<li><img src="/upload/resize_cache/iblock/eab/86_72_2/eab4eaae0d449827d3dda19c93b927da.jpg" alt=""></li>
+															</ul>
+						</div>
+					</div>
+				</div>
+							<div id="bx_1891167135_12127">
+					<div class="element ">
+						<div class="element-container">
+							<div class="image-container">
+								<div class="image" onclick="location.href='/catalog/postelnoe_bele/perkal/muzey_6/'; return false">
+																		<img src="/upload/resize_cache/iblock/6c7/226_194_2/6c7a7625d057e541c21e40eb0994d85a.jpg" alt="">
+									<a href="" title="" class="dropQuickID" id="12127"></a>
+									<div class="quick-over">Быстрый просмотр</div>
+								</div>
+								<div class="element-label hit-label"></div>
+							</div>
+							<div class="rate-block row">
+								<ul class="rate-stars row">
+																			<li class="star blink"></li>
+																			<li class="star blink"></li>
+																			<li class="star blink"></li>
+																			<li class="star blink"></li>
+																			<li class="star blink"></li>
+																	</ul>
+								<div class="review-value">
+									<a href="/catalog/postelnoe_bele/perkal/muzey_6/">
+									<span>1</span>
+									отзыв</a>
+								</div>
+								<div class="likes">89</div>
+							</div>
+							<div class="element-name">Постельное белье, перкаль, <strong>Музей 6</strong></div>
+							<div class="coin-block row">
+								<div class="new-cena">
+																от 1 680 р.
+
+								</div>
+								<a href="/catalog/postelnoe_bele/perkal/muzey_6/" title="" class="more-green" onclick="yaCounter21397981.reachGoal('detailed'); return true;">Подробнее</a>
+								<div class="popup-window">
+									<div class="title">Товар добавлен в корзину</div>
+									<div class="close"></div>
+									<ul class="popup-window-list">
+										<li class="goto"><a href="" title="">Перейти в корзину</a></li>
+										<li class="goout"><a href="" title="">Продолжить покупки</a></li>
+									</ul>
+								</div>
+							</div>
+															<ul class="element-size">
+																		<li><span>Размер:</span>  1,5</li>
+									<li><span>Остальные размеры:</span> 1,5;  2,0;  2,0 евро 2 нав.;  евро1 2 нав.;  евро2 2 нав.</li>
+								</ul>
+														<ul class="galery-list">
+																	<li><img src="/upload/resize_cache/iblock/3df/86_72_2/3df069f732e6621a94aff6f9e7a1def3.jpg" alt=""></li>
+																	<li><img src="/upload/resize_cache/iblock/8c4/86_72_2/8c49b6cc446d324ee9a3a446f3e7ceba.jpg" alt=""></li>
+															</ul>
+						</div>
+					</div>
+				</div>
+							<div id="bx_1891167135_12125">
+					<div class="element ">
+						<div class="element-container">
+							<div class="image-container">
+								<div class="image" onclick="location.href='/catalog/postelnoe_bele/perkal/rimskiy_dvorik_1_/'; return false">
+																		<img src="/upload/resize_cache/iblock/965/226_194_2/96531b2c42bcbc063b5d894a678b0a81.jpg" alt="">
+									<a href="" title="" class="dropQuickID" id="12125"></a>
+									<div class="quick-over">Быстрый просмотр</div>
+								</div>
+								<div class="element-label hit-label"></div>
+							</div>
+							<div class="rate-block row">
+								<ul class="rate-stars row">
+																			<li class="star"></li>
+																			<li class="star"></li>
+																			<li class="star"></li>
+																			<li class="star"></li>
+																			<li class="star"></li>
+																	</ul>
+								<div class="review-value">
+									<a href="/catalog/postelnoe_bele/perkal/rimskiy_dvorik_1_/">
+									<span>0</span>
+									отзывов</a>
+								</div>
+								<div class="likes">45</div>
+							</div>
+							<div class="element-name">Постельное белье, перкаль, <strong>Римский дворик 1 </strong></div>
+							<div class="coin-block row">
+								<div class="new-cena">
+																от 1 680 р.
+
+								</div>
+								<a href="/catalog/postelnoe_bele/perkal/rimskiy_dvorik_1_/" title="" class="more-green" onclick="yaCounter21397981.reachGoal('detailed'); return true;">Подробнее</a>
+								<div class="popup-window">
+									<div class="title">Товар добавлен в корзину</div>
+									<div class="close"></div>
+									<ul class="popup-window-list">
+										<li class="goto"><a href="" title="">Перейти в корзину</a></li>
+										<li class="goout"><a href="" title="">Продолжить покупки</a></li>
+									</ul>
+								</div>
+							</div>
+															<ul class="element-size">
+																		<li><span>Размер:</span>  1,5</li>
+									<li><span>Остальные размеры:</span> 1,5;  2,0;  2,0 евро 2 нав.;  евро1 2 нав.;  евро2 2 нав.</li>
+								</ul>
+														<ul class="galery-list">
+																	<li><img src="/upload/resize_cache/iblock/76d/86_72_2/76d28b6f258e06c3989be1acde6d32ff.jpg" alt=""></li>
+																	<li><img src="/upload/resize_cache/iblock/e31/86_72_2/e316cda590b3aed5436cd386a12dae58.jpg" alt=""></li>
+															</ul>
+						</div>
+					</div>
+				</div>
+							<div id="bx_1891167135_12026">
+					<div class="element ">
+						<div class="element-container">
+							<div class="image-container">
+								<div class="image" onclick="location.href='/catalog/polotentsa/vafelnye/granatovyy_braslet/'; return false">
+																		<img src="/upload/resize_cache/iblock/1d1/226_194_2/1d1833d2aed52d557b4e050f7f44230c.jpg" alt="">
+									<a href="" title="" class="dropQuickID" id="12026"></a>
+									<div class="quick-over">Быстрый просмотр</div>
+								</div>
+								<div class="element-label hit-label"></div>
+							</div>
+							<div class="rate-block row">
+								<ul class="rate-stars row">
+																			<li class="star"></li>
+																			<li class="star"></li>
+																			<li class="star"></li>
+																			<li class="star"></li>
+																			<li class="star"></li>
+																	</ul>
+								<div class="review-value">
+									<a href="/catalog/polotentsa/vafelnye/granatovyy_braslet/">
+									<span>0</span>
+									отзывов</a>
+								</div>
+								<div class="likes">4</div>
+							</div>
+							<div class="element-name">Полотенца, вафельное, <strong>Гранатовый браслет</strong></div>
+							<div class="coin-block row">
+								<div class="new-cena">
+																от 65 р.
+
+								</div>
+								<a href="/catalog/polotentsa/vafelnye/granatovyy_braslet/" title="" class="more-green" onclick="yaCounter21397981.reachGoal('detailed'); return true;">Подробнее</a>
+								<div class="popup-window">
+									<div class="title">Товар добавлен в корзину</div>
+									<div class="close"></div>
+									<ul class="popup-window-list">
+										<li class="goto"><a href="" title="">Перейти в корзину</a></li>
+										<li class="goout"><a href="" title="">Продолжить покупки</a></li>
+									</ul>
+								</div>
+							</div>
+															<ul class="element-size">
+																		<li><span>Размер:</span>  50х70</li>
+									<li><span>Остальные размеры:</span> 50х70</li>
+								</ul>
+														<ul class="galery-list">
+															</ul>
+						</div>
+					</div>
+				</div>
+							<div id="bx_1891167135_10999">
+					<div class="element ">
+						<div class="element-container">
+							<div class="image-container">
+								<div class="image" onclick="location.href='/catalog/postelnoe_bele/byaz/sadko_6/'; return false">
+																		<img src="/upload/resize_cache/iblock/8d2/226_194_2/8d2755b075c02da150cba17b21b4055b.jpg" alt="">
+									<a href="" title="" class="dropQuickID" id="10999"></a>
+									<div class="quick-over">Быстрый просмотр</div>
+								</div>
+								<div class="element-label hit-label"></div>
+							</div>
+							<div class="rate-block row">
+								<ul class="rate-stars row">
+																			<li class="star"></li>
+																			<li class="star"></li>
+																			<li class="star"></li>
+																			<li class="star"></li>
+																			<li class="star"></li>
+																	</ul>
+								<div class="review-value">
+									<a href="/catalog/postelnoe_bele/byaz/sadko_6/">
+									<span>0</span>
+									отзывов</a>
+								</div>
+								<div class="likes">8</div>
+							</div>
+							<div class="element-name">Постельное белье, бязь, <strong>Садко 6</strong></div>
+							<div class="coin-block row">
+								<div class="new-cena">
+																от 1 590 р.
+
+								</div>
+								<a href="/catalog/postelnoe_bele/byaz/sadko_6/" title="" class="more-green" onclick="yaCounter21397981.reachGoal('detailed'); return true;">Подробнее</a>
+								<div class="popup-window">
+									<div class="title">Товар добавлен в корзину</div>
+									<div class="close"></div>
+									<ul class="popup-window-list">
+										<li class="goto"><a href="" title="">Перейти в корзину</a></li>
+										<li class="goout"><a href="" title="">Продолжить покупки</a></li>
+									</ul>
+								</div>
+							</div>
+															<ul class="element-size">
+																		<li><span>Размер:</span>  2,0</li>
+									<li><span>Остальные размеры:</span> 2,0;  2,0 евро 2 нав.;  евро1 2 нав.;  евро2 2 нав.;  семейный 2 нав.</li>
+								</ul>
+														<ul class="galery-list">
+																	<li><img src="/upload/resize_cache/iblock/2be/86_72_2/2be8f2faa0411b8486aa05dc07e2c6ed.jpg" alt=""></li>
+															</ul>
+						</div>
+					</div>
+				</div>
+							<div id="bx_1891167135_10501">
+					<div class="element ">
+						<div class="element-container">
+							<div class="image-container">
+								<div class="image" onclick="location.href='/catalog/postelnoe_bele/satin/muzey_6s_bezh/'; return false">
+																		<img src="/upload/resize_cache/iblock/2d6/226_194_2/2d68804465a7459a9d22d4b9dc62a0d7.jpg" alt="">
+									<a href="" title="" class="dropQuickID" id="10501"></a>
+									<div class="quick-over">Быстрый просмотр</div>
+								</div>
+								<div class="element-label hit-label"></div>
+							</div>
+							<div class="rate-block row">
+								<ul class="rate-stars row">
+																			<li class="star blink"></li>
+																			<li class="star blink"></li>
+																			<li class="star blink"></li>
+																			<li class="star blink"></li>
+																			<li class="star blink"></li>
+																	</ul>
+								<div class="review-value">
+									<a href="/catalog/postelnoe_bele/satin/muzey_6s_bezh/">
+									<span>1</span>
+									отзыв</a>
+								</div>
+								<div class="likes">56</div>
+							</div>
+							<div class="element-name">Постельное белье, сатин, <strong>Музей 6с</strong></div>
+							<div class="coin-block row">
+								<div class="new-cena">
+																от 3 320 р.
+
+								</div>
+								<a href="/catalog/postelnoe_bele/satin/muzey_6s_bezh/" title="" class="more-green" onclick="yaCounter21397981.reachGoal('detailed'); return true;">Подробнее</a>
+								<div class="popup-window">
+									<div class="title">Товар добавлен в корзину</div>
+									<div class="close"></div>
+									<ul class="popup-window-list">
+										<li class="goto"><a href="" title="">Перейти в корзину</a></li>
+										<li class="goout"><a href="" title="">Продолжить покупки</a></li>
+									</ul>
+								</div>
+							</div>
+															<ul class="element-size">
+																		<li><span>Размер:</span>  1,5</li>
+									<li><span>Остальные размеры:</span> 1,5;  2,0;  2,0 евро;  евро1 4 нав.;  евро2 4 нав.</li>
+								</ul>
+														<ul class="galery-list">
+																	<li><img src="/upload/resize_cache/iblock/cfc/86_72_2/cfcc17f50ccc0cddd0d7696a63859f3a.jpg" alt=""></li>
+															</ul>
+						</div>
+					</div>
+				</div>
+					</div>
+	</div>
+</div>
+						<div class="sales-block discont row">
+	<div class="sale-block-head">
+		<div class="title"><a href="/catalog/discont/">Распродажа</a>
+		</div>
+	</div>
+	<div class="carousel-sales-block">
+				<div class="sales-carousel">
+							<div id="bx_4007427644_18421">
+					<div class="element ">
+						<div class="element-container">
+							<div class="image-container">
+								<div class="image" onclick="location.href='/catalog/mansarda_2_1/'; return false">
+																		<img src="/upload/resize_cache/iblock/d82/226_194_2/d821459ac87dbc49c6568e05831b660d.jpg" alt="">
+									<a href="" title="" class="dropQuickID" id="18421"></a>
+									<div class="quick-over">Быстрый просмотр</div>
+								</div>
+								<div class="element-label big-element-label label10"></div>
+							</div>
+							<div class="rate-block row">
+								<ul class="rate-stars row">
+																			<li class="star"></li>
+																			<li class="star"></li>
+																			<li class="star"></li>
+																			<li class="star"></li>
+																			<li class="star"></li>
+																	</ul>
+								<div class="review-value">
+									<a href="/catalog/mansarda_2_1/">
+									<span>0</span>
+									отзывов</a>
+								</div>
+								<div class="likes">0</div>
+							</div>
+							<div class="element-name">Постельное белье, сатин, <strong>Мансарда 2-1</strong></div>
+							<div class="coin-block row">
+								<div class="new-cena">
+																от 2 500 р.
+
+								</div>
+								<a href="/catalog/mansarda_2_1/" title="" class="more-green" onclick="yaCounter21397981.reachGoal('detailed'); return true;">Подробнее</a>
+								<div class="popup-window">
+									<div class="title">Товар добавлен в корзину</div>
+									<div class="close"></div>
+									<ul class="popup-window-list">
+										<li class="goto"><a href="" title="">Перейти в корзину</a></li>
+										<li class="goout"><a href="" title="">Продолжить покупки</a></li>
+									</ul>
+								</div>
+							</div>
+															<ul class="element-size">
+																		<li><span>Размер:</span>  1,5</li>
+									<li><span>Остальные размеры:</span> 1,5;  2,0</li>
+								</ul>
+														<ul class="galery-list">
+																	<li><img src="/upload/resize_cache/iblock/aff/86_72_2/aff350db643aba7c64cd2a248c11cb61.jpg" alt=""></li>
+															</ul>
+						</div>
+					</div>
+				</div>
+							<div id="bx_4007427644_18419">
+					<div class="element ">
+						<div class="element-container">
+							<div class="image-container">
+								<div class="image" onclick="location.href='/catalog/sintez_2_1/'; return false">
+																		<img src="/upload/resize_cache/iblock/a1e/226_194_2/a1e06153df2bf41cff77407cc5879cff.jpg" alt="">
+									<a href="" title="" class="dropQuickID" id="18419"></a>
+									<div class="quick-over">Быстрый просмотр</div>
+								</div>
+								<div class="element-label big-element-label label10"></div>
+							</div>
+							<div class="rate-block row">
+								<ul class="rate-stars row">
+																			<li class="star"></li>
+																			<li class="star"></li>
+																			<li class="star"></li>
+																			<li class="star"></li>
+																			<li class="star"></li>
+																	</ul>
+								<div class="review-value">
+									<a href="/catalog/sintez_2_1/">
+									<span>0</span>
+									отзывов</a>
+								</div>
+								<div class="likes">0</div>
+							</div>
+							<div class="element-name">Постельное белье, сатин, <strong>Синтез 2-1</strong></div>
+							<div class="coin-block row">
+								<div class="new-cena">
+																от 2 500 р.
+
+								</div>
+								<a href="/catalog/sintez_2_1/" title="" class="more-green" onclick="yaCounter21397981.reachGoal('detailed'); return true;">Подробнее</a>
+								<div class="popup-window">
+									<div class="title">Товар добавлен в корзину</div>
+									<div class="close"></div>
+									<ul class="popup-window-list">
+										<li class="goto"><a href="" title="">Перейти в корзину</a></li>
+										<li class="goout"><a href="" title="">Продолжить покупки</a></li>
+									</ul>
+								</div>
+							</div>
+															<ul class="element-size">
+																		<li><span>Размер:</span>  1,5</li>
+									<li><span>Остальные размеры:</span> 1,5;  2,0;  2,0 евро</li>
+								</ul>
+														<ul class="galery-list">
+																	<li><img src="/upload/resize_cache/iblock/92a/86_72_2/92a0ff7f07fd6d84e2de97e69493a03b.jpg" alt=""></li>
+															</ul>
+						</div>
+					</div>
+				</div>
+							<div id="bx_4007427644_18418">
+					<div class="element ">
+						<div class="element-container">
+							<div class="image-container">
+								<div class="image" onclick="location.href='/catalog/sintez_1_1/'; return false">
+																		<img src="/upload/resize_cache/iblock/ab0/226_194_2/ab001e563a31f485c73d9f2fd6f483ca.jpg" alt="">
+									<a href="" title="" class="dropQuickID" id="18418"></a>
+									<div class="quick-over">Быстрый просмотр</div>
+								</div>
+								<div class="element-label big-element-label label10"></div>
+							</div>
+							<div class="rate-block row">
+								<ul class="rate-stars row">
+																			<li class="star"></li>
+																			<li class="star"></li>
+																			<li class="star"></li>
+																			<li class="star"></li>
+																			<li class="star"></li>
+																	</ul>
+								<div class="review-value">
+									<a href="/catalog/sintez_1_1/">
+									<span>0</span>
+									отзывов</a>
+								</div>
+								<div class="likes">0</div>
+							</div>
+							<div class="element-name">Постельное белье, сатин, <strong>Синтез 1-1</strong></div>
+							<div class="coin-block row">
+								<div class="new-cena">
+																от 2 700 р.
+
+								</div>
+								<a href="/catalog/sintez_1_1/" title="" class="more-green" onclick="yaCounter21397981.reachGoal('detailed'); return true;">Подробнее</a>
+								<div class="popup-window">
+									<div class="title">Товар добавлен в корзину</div>
+									<div class="close"></div>
+									<ul class="popup-window-list">
+										<li class="goto"><a href="" title="">Перейти в корзину</a></li>
+										<li class="goout"><a href="" title="">Продолжить покупки</a></li>
+									</ul>
+								</div>
+							</div>
+															<ul class="element-size">
+																		<li><span>Размер:</span>  2,0</li>
+									<li><span>Остальные размеры:</span> 2,0;  2,0 евро</li>
+								</ul>
+														<ul class="galery-list">
+																	<li><img src="/upload/resize_cache/iblock/a52/86_72_2/a52e55c5f9a16d01825341d2819e4db0.jpg" alt=""></li>
+															</ul>
+						</div>
+					</div>
+				</div>
+							<div id="bx_4007427644_18417">
+					<div class="element ">
+						<div class="element-container">
+							<div class="image-container">
+								<div class="image" onclick="location.href='/catalog/senora/'; return false">
+																		<img src="/upload/resize_cache/iblock/16d/226_194_2/16d67a9bf85aaca8a3a7a8fc86c1fd79.jpg" alt="">
+									<a href="" title="" class="dropQuickID" id="18417"></a>
+									<div class="quick-over">Быстрый просмотр</div>
+								</div>
+								<div class="element-label big-element-label label10"></div>
+							</div>
+							<div class="rate-block row">
+								<ul class="rate-stars row">
+																			<li class="star"></li>
+																			<li class="star"></li>
+																			<li class="star"></li>
+																			<li class="star"></li>
+																			<li class="star"></li>
+																	</ul>
+								<div class="review-value">
+									<a href="/catalog/senora/">
+									<span>0</span>
+									отзывов</a>
+								</div>
+								<div class="likes">0</div>
+							</div>
+							<div class="element-name">Постельное белье, сатин, <strong>Сеньора</strong></div>
+							<div class="coin-block row">
+								<div class="new-cena">
+																от 2 500 р.
+
+								</div>
+								<a href="/catalog/senora/" title="" class="more-green" onclick="yaCounter21397981.reachGoal('detailed'); return true;">Подробнее</a>
+								<div class="popup-window">
+									<div class="title">Товар добавлен в корзину</div>
+									<div class="close"></div>
+									<ul class="popup-window-list">
+										<li class="goto"><a href="" title="">Перейти в корзину</a></li>
+										<li class="goout"><a href="" title="">Продолжить покупки</a></li>
+									</ul>
+								</div>
+							</div>
+															<ul class="element-size">
+																		<li><span>Размер:</span>  1,5</li>
+									<li><span>Остальные размеры:</span> 1,5;  2,0;  2,0 евро;  евро1 2 нав.</li>
+								</ul>
+														<ul class="galery-list">
+																	<li><img src="/upload/resize_cache/iblock/33f/86_72_2/33f3487ae8efb8f2bd9449c94233ba2f.jpg" alt=""></li>
+																	<li><img src="/upload/resize_cache/iblock/eae/86_72_2/eaecc27524a7a53d1b782417e37f6c88.jpg" alt=""></li>
+															</ul>
+						</div>
+					</div>
+				</div>
+							<div id="bx_4007427644_18405">
+					<div class="element ">
+						<div class="element-container">
+							<div class="image-container">
+								<div class="image" onclick="location.href='/catalog/iris_3_2/'; return false">
+																		<img src="/upload/resize_cache/iblock/abe/226_194_2/abe2bbf4b727e51406e1996f72948875.jpg" alt="">
+									<a href="" title="" class="dropQuickID" id="18405"></a>
+									<div class="quick-over">Быстрый просмотр</div>
+								</div>
+								<div class="element-label big-element-label label10"></div>
+							</div>
+							<div class="rate-block row">
+								<ul class="rate-stars row">
+																			<li class="star"></li>
+																			<li class="star"></li>
+																			<li class="star"></li>
+																			<li class="star"></li>
+																			<li class="star"></li>
+																	</ul>
+								<div class="review-value">
+									<a href="/catalog/iris_3_2/">
+									<span>0</span>
+									отзывов</a>
+								</div>
+								<div class="likes">0</div>
+							</div>
+							<div class="element-name">Постельное белье, сатин, <strong>Ирис 3-2</strong></div>
+							<div class="coin-block row">
+								<div class="new-cena">
+																от 2 500 р.
+
+								</div>
+								<a href="/catalog/iris_3_2/" title="" class="more-green" onclick="yaCounter21397981.reachGoal('detailed'); return true;">Подробнее</a>
+								<div class="popup-window">
+									<div class="title">Товар добавлен в корзину</div>
+									<div class="close"></div>
+									<ul class="popup-window-list">
+										<li class="goto"><a href="" title="">Перейти в корзину</a></li>
+										<li class="goout"><a href="" title="">Продолжить покупки</a></li>
+									</ul>
+								</div>
+							</div>
+															<ul class="element-size">
+																		<li><span>Размер:</span>  1,5</li>
+									<li><span>Остальные размеры:</span> 1,5;  2,0;  2,0 евро;  евро1 2 нав.;  семейный 2 нав.</li>
+								</ul>
+														<ul class="galery-list">
+																	<li><img src="/upload/resize_cache/iblock/cbd/86_72_2/cbd06e28c529c3de504d5503f0b319fa.jpg" alt=""></li>
+															</ul>
+						</div>
+					</div>
+				</div>
+							<div id="bx_4007427644_18403">
+					<div class="element ">
+						<div class="element-container">
+							<div class="image-container">
+								<div class="image" onclick="location.href='/catalog/akvamarin_1/'; return false">
+																		<img src="/upload/resize_cache/iblock/617/226_194_2/61768cfe61568186cef52fdef9916866.jpg" alt="">
+									<a href="" title="" class="dropQuickID" id="18403"></a>
+									<div class="quick-over">Быстрый просмотр</div>
+								</div>
+								<div class="element-label big-element-label label10"></div>
+							</div>
+							<div class="rate-block row">
+								<ul class="rate-stars row">
+																			<li class="star"></li>
+																			<li class="star"></li>
+																			<li class="star"></li>
+																			<li class="star"></li>
+																			<li class="star"></li>
+																	</ul>
+								<div class="review-value">
+									<a href="/catalog/akvamarin_1/">
+									<span>0</span>
+									отзывов</a>
+								</div>
+								<div class="likes">0</div>
+							</div>
+							<div class="element-name">Постельное белье, сатин, <strong>Аквамарин 1</strong></div>
+							<div class="coin-block row">
+								<div class="new-cena">
+																от 2 500 р.
+
+								</div>
+								<a href="/catalog/akvamarin_1/" title="" class="more-green" onclick="yaCounter21397981.reachGoal('detailed'); return true;">Подробнее</a>
+								<div class="popup-window">
+									<div class="title">Товар добавлен в корзину</div>
+									<div class="close"></div>
+									<ul class="popup-window-list">
+										<li class="goto"><a href="" title="">Перейти в корзину</a></li>
+										<li class="goout"><a href="" title="">Продолжить покупки</a></li>
+									</ul>
+								</div>
+							</div>
+															<ul class="element-size">
+																		<li><span>Размер:</span>  1,5</li>
+									<li><span>Остальные размеры:</span> 1,5;  2,0;  2,0 евро;  евро1 2 нав.</li>
+								</ul>
+														<ul class="galery-list">
+																	<li><img src="/upload/resize_cache/iblock/d5f/86_72_2/d5f2359e21f4cd39c32f3a7e29354dba.jpg" alt=""></li>
+															</ul>
+						</div>
+					</div>
+				</div>
+							<div id="bx_4007427644_14124">
+					<div class="element ">
+						<div class="element-container">
+							<div class="image-container">
+								<div class="image" onclick="location.href='/catalog/postelnoe_bele/byaz/kristina_4/'; return false">
+																		<img src="/upload/resize_cache/iblock/6b8/226_194_2/6b83442fc80f5bfa1de72196aabf9e3d.jpg" alt="">
+									<a href="" title="" class="dropQuickID" id="14124"></a>
+									<div class="quick-over">Быстрый просмотр</div>
+								</div>
+								<div class="element-label big-element-label label10"></div>
+							</div>
+							<div class="rate-block row">
+								<ul class="rate-stars row">
+																			<li class="star"></li>
+																			<li class="star"></li>
+																			<li class="star"></li>
+																			<li class="star"></li>
+																			<li class="star"></li>
+																	</ul>
+								<div class="review-value">
+									<a href="/catalog/postelnoe_bele/byaz/kristina_4/">
+									<span>0</span>
+									отзывов</a>
+								</div>
+								<div class="likes">9</div>
+							</div>
+							<div class="element-name">Постельное белье, бязь, <strong>Кристина 4</strong></div>
+							<div class="coin-block row">
+								<div class="new-cena">
+																от 1 800 р.
+
+								</div>
+								<a href="/catalog/postelnoe_bele/byaz/kristina_4/" title="" class="more-green" onclick="yaCounter21397981.reachGoal('detailed'); return true;">Подробнее</a>
+								<div class="popup-window">
+									<div class="title">Товар добавлен в корзину</div>
+									<div class="close"></div>
+									<ul class="popup-window-list">
+										<li class="goto"><a href="" title="">Перейти в корзину</a></li>
+										<li class="goout"><a href="" title="">Продолжить покупки</a></li>
+									</ul>
+								</div>
+							</div>
+															<ul class="element-size">
+																		<li><span>Размер:</span>  евро1 2 нав.</li>
+									<li><span>Остальные размеры:</span> евро1 2 нав.;  семейный 2 нав.</li>
+								</ul>
+														<ul class="galery-list">
+																	<li><img src="/upload/resize_cache/iblock/293/86_72_2/293ecffaf7b3653b8f0d31ea5fb56445.jpg" alt=""></li>
+															</ul>
+						</div>
+					</div>
+				</div>
+							<div id="bx_4007427644_14123">
+					<div class="element ">
+						<div class="element-container">
+							<div class="image-container">
+								<div class="image" onclick="location.href='/catalog/postelnoe_bele/byaz/kristina_3/'; return false">
+																		<img src="/upload/resize_cache/iblock/b4a/226_194_2/b4a156240c9bc4f005555fed9578ca7e.jpg" alt="">
+									<a href="" title="" class="dropQuickID" id="14123"></a>
+									<div class="quick-over">Быстрый просмотр</div>
+								</div>
+								<div class="element-label big-element-label label10"></div>
+							</div>
+							<div class="rate-block row">
+								<ul class="rate-stars row">
+																			<li class="star"></li>
+																			<li class="star"></li>
+																			<li class="star"></li>
+																			<li class="star"></li>
+																			<li class="star"></li>
+																	</ul>
+								<div class="review-value">
+									<a href="/catalog/postelnoe_bele/byaz/kristina_3/">
+									<span>0</span>
+									отзывов</a>
+								</div>
+								<div class="likes">27</div>
+							</div>
+							<div class="element-name">Постельное белье, бязь, <strong>Кристина 3</strong></div>
+							<div class="coin-block row">
+								<div class="new-cena">
+																от 1 860 р.
+
+								</div>
+								<a href="/catalog/postelnoe_bele/byaz/kristina_3/" title="" class="more-green" onclick="yaCounter21397981.reachGoal('detailed'); return true;">Подробнее</a>
+								<div class="popup-window">
+									<div class="title">Товар добавлен в корзину</div>
+									<div class="close"></div>
+									<ul class="popup-window-list">
+										<li class="goto"><a href="" title="">Перейти в корзину</a></li>
+										<li class="goout"><a href="" title="">Продолжить покупки</a></li>
+									</ul>
+								</div>
+							</div>
+															<ul class="element-size">
+																		<li><span>Размер:</span>  евро1 2 нав.</li>
+									<li><span>Остальные размеры:</span> евро1 2 нав.;  семейный 2 нав.</li>
+								</ul>
+														<ul class="galery-list">
+																	<li><img src="/upload/resize_cache/iblock/2cb/86_72_2/2cb76bf721bcba4796c2a4a00f0db893.jpg" alt=""></li>
+															</ul>
+						</div>
+					</div>
+				</div>
+							<div id="bx_4007427644_14121">
+					<div class="element ">
+						<div class="element-container">
+							<div class="image-container">
+								<div class="image" onclick="location.href='/catalog/postelnoe_bele/byaz/virtuoz_2/'; return false">
+																		<img src="/upload/resize_cache/iblock/cd1/226_194_2/cd19eb95ff07df1ec63d29c0eb5d94e6.jpg" alt="">
+									<a href="" title="" class="dropQuickID" id="14121"></a>
+									<div class="quick-over">Быстрый просмотр</div>
+								</div>
+								<div class="element-label big-element-label label10"></div>
+							</div>
+							<div class="rate-block row">
+								<ul class="rate-stars row">
+																			<li class="star"></li>
+																			<li class="star"></li>
+																			<li class="star"></li>
+																			<li class="star"></li>
+																			<li class="star"></li>
+																	</ul>
+								<div class="review-value">
+									<a href="/catalog/postelnoe_bele/byaz/virtuoz_2/">
+									<span>0</span>
+									отзывов</a>
+								</div>
+								<div class="likes">9</div>
+							</div>
+							<div class="element-name">Постельное белье, бязь, <strong>Виртуоз 2</strong></div>
+							<div class="coin-block row">
+								<div class="new-cena">
+																от 1 800 р.
+
+								</div>
+								<a href="/catalog/postelnoe_bele/byaz/virtuoz_2/" title="" class="more-green" onclick="yaCounter21397981.reachGoal('detailed'); return true;">Подробнее</a>
+								<div class="popup-window">
+									<div class="title">Товар добавлен в корзину</div>
+									<div class="close"></div>
+									<ul class="popup-window-list">
+										<li class="goto"><a href="" title="">Перейти в корзину</a></li>
+										<li class="goout"><a href="" title="">Продолжить покупки</a></li>
+									</ul>
+								</div>
+							</div>
+															<ul class="element-size">
+																		<li><span>Размер:</span>  евро1 2 нав.</li>
+									<li><span>Остальные размеры:</span> евро1 2 нав.</li>
+								</ul>
+														<ul class="galery-list">
+																	<li><img src="/upload/resize_cache/iblock/c8e/86_72_2/c8e55540ed92db3a3c6588e3b8278fb9.jpg" alt=""></li>
+															</ul>
+						</div>
+					</div>
+				</div>
+					</div>
+	</div>
+</div>
+																<aside class="sidebar">
+			<div class="top-menu-block">
+			<ul class="catalog-menu">
+									<li class="">
+					<span></span>
+					<a href="/catalog/postelnoe_bele/">Постельное белье</a>
+					<ul class="submenu">
+															<li class="">
+					<a href="/catalog/postelnoe_bele/byaz/">Бязь</a>
+				</li>
+															<li class="">
+					<a href="/catalog/postelnoe_bele/byaz_zima_leto/">Бязь зима-лето</a>
+				</li>
+															<li class="">
+					<a href="/catalog/postelnoe_bele/perkal/">Перкаль</a>
+				</li>
+															<li class="">
+					<a href="/catalog/postelnoe_bele/satin/">Сатин</a>
+				</li>
+															<li class="">
+					<a href="/catalog/postelnoe_bele/strayp_satin/">Страйп-сатин</a>
+				</li>
+															<li class="">
+					<a href="/catalog/postelnoe_bele/detskaya_byaz/">Детская бязь</a>
+				</li>
+															<li class="">
+					<a href="/catalog/postelnoe_bele/na_rezinke_1/">На резинке</a>
+				</li>
+															<li class="">
+					<a href="/catalog/postelnoe_bele/detskaya_kulirka/">Детская кулирка</a>
+				</li>
+						</ul></li>									<li class="">
+					<span></span>
+					<a href="/catalog/prostyni/">Простыни</a>
+					<ul class="submenu">
+															<li class="">
+					<a href="/catalog/prostyni/na_rezinke/">На резинке</a>
+				</li>
+															<li class="">
+					<a href="/catalog/prostyni/makhrovye/">Махровые</a>
+				</li>
+						</ul></li>									<li class="">
+					<span></span>
+					<a href="/catalog/polotentsa/">Полотенца</a>
+					<ul class="submenu">
+															<li class="">
+					<a href="/catalog/polotentsa/makhrovye_1/">Махровые</a>
+				</li>
+															<li class="">
+					<a href="/catalog/polotentsa/vafelnye/">Вафельные</a>
+				</li>
+															<li class="">
+					<a href="/catalog/polotentsa/nabory/">Наборы</a>
+				</li>
+						</ul></li>									<li class="">
+					<span></span>
+					<a href="/catalog/pledy/">Пледы</a>
+					<ul class="submenu">
+															<li class="">
+					<a href="/catalog/pledy/velsoft/">Велсофт</a>
+				</li>
+															<li class="">
+					<a href="/catalog/pledy/vyazanyy/">Вязаный</a>
+				</li>
+						</ul></li>									<li class="">
+					<span></span>
+					<a href="/catalog/pokryvala/">Покрывала</a>
+					<ul class="submenu">
+															<li class="">
+					<a href="/catalog/pokryvala/satin_1/">Сатин</a>
+				</li>
+															<li class="">
+					<a href="/catalog/pokryvala/perkal_1/">Перкаль</a>
+				</li>
+															<li class="">
+					<a href="/catalog/pokryvala/byaz_1/">Бязь</a>
+				</li>
+															<li class="">
+					<a href="/catalog/pokryvala/detskie/">Детские</a>
+				</li>
+						</ul></li>									<li class="">
+					<span></span>
+					<a href="/catalog/odeyala/">Одеяла</a>
+					<ul class="submenu">
+															<li class="">
+					<a href="/catalog/odeyala/bambuk_khlopok/">Бамбук-хлопок</a>
+				</li>
+															<li class="">
+					<a href="/catalog/odeyala/len_khlopok/">Лен-хлопок</a>
+				</li>
+						</ul></li>									<li class="">
+					<span></span>
+					<a href="/catalog/dlya_kukhni/">Для кухни</a>
+					<ul class="submenu">
+															<li class="">
+					<a href="/catalog/dlya_kukhni/skaterti/">Скатерти</a>
+				</li>
+															<li class="">
+					<a href="/catalog/dlya_kukhni/salfetki/">Салфетки</a>
+				</li>
+															<li class="">
+					<a href="/catalog/dlya_kukhni/nabory_1/">Наборы</a>
+				</li>
+						</ul></li>									<li class="">
+					<span></span>
+					<a href="/catalog/navolochki/">Наволочки</a>
+					<ul class="submenu">
+															<li class="">
+					<a href="/catalog/navolochki/trikotazhnye/">Трикотажные</a>
+				</li>
+															<li class="">
+					<a href="/catalog/navolochki/perkal_2/">Перкаль</a>
+				</li>
+															<li class="">
+					<a href="/catalog/navolochki/strayp_satin_1/">Страйп-сатин</a>
+				</li>
+															<li class="">
+					<a href="/catalog/navolochki/satin_2/">Сатин</a>
+				</li>
+						</ul></li>			</ul>
+<div class="clear"></div>	</div>
+		</aside>					<div class="page">
+						<div class="overlay-block" id="popup-report">
+	<div class="overlay-container">
+		<div class="overlay">
+			<div class="overlay-close"></div>
+			<div class="title"></div>
+			<div class="form-coloumn">
+				<div class="report-responce-wrapper"></div>
+				<form action="" method="get" class="form supply-report">
+					<div class="input-block">
+						<label for="">Ваше имя: *</label>
+						<input type="text" name="PROPERTY[NAME][0]" value="" placeholder="" class="rep-name">
+					</div>
+					<div class="input-block">
+						<label for="">Ваш email: *</label>
+						<input type="text" name="PROPERTY[58][0]" value="" placeholder="" class="report-mail">
+						<input type="hidden" name="" value="" placeholder="" class="report-name">
+					</div>
+					<div class="checkbox checkbox1">
+						<input type="checkbox" name="pdn_checkbox" id="pdn_checkbox_report" value="Y" required>
+						<label for="pdn_checkbox_report">Согласен <a href="/pdn_full/" target="_blank">на обработку моих персональных данных</a></label>
+					</div>
+					<div class="button-block">
+						<button type="" class="green-button report-submit" name="report_submit" value="Отправить заявку" onclick="checkButton('pdn_checkbox_report')">Отправить заявку</button>
+					</div>
+				</form>
+			</div>
+		</div>
+	</div>
+</div>
+							</div>
+					<div class="head"><span>Последние отзывы</span></div>
+<div class="last-comment-block row">
+	<div class="last-comment">
+		
+		<div class="comment-item">
+										<div class="comment-image no_photo"></div>
+						<div class="comment-text-block">
+				<div class="name">Ольга</div>
+				<div class="date">25.04.2017</div>
+				<div class="text">Комплект &quot;Императрица&quot; (зима-лето) из плотной ткани, расцветка яркая.  Пододеяльник летом можно использовать как легкое одеяло, потому что одна сторона  утеплена  Очень необычно, раньше такого решения не встречала. Комплект понравился.</div>
+				<div class="read-more"><a href="/catalog/postelnoe_bele/byaz_zima_leto/imperatritsa_zima_leto/">Читать далее</a></div>
+			</div>
+		</div>
+
+		
+		<div class="comment-item">
+										<div class="comment-image no_photo"></div>
+						<div class="comment-text-block">
+				<div class="name">Светлана </div>
+				<div class="date">20.04.2017</div>
+				<div class="text">Комплект просто супер! Ткань гладкая и шелковистая. 
+Спасибо!!</div>
+				<div class="read-more"><a href="/catalog/postelnoe_bele/satin/muzey_6s_bezh/">Читать далее</a></div>
+			</div>
+		</div>
+
+		
+		<div class="comment-item">
+										<div class="comment-image no_photo"></div>
+						<div class="comment-text-block">
+				<div class="name">Алёна</div>
+				<div class="date">12.04.2017</div>
+				<div class="text">Очень красивый комплект! Понравилось качество ткани: крепкая, плотная, приятная на ощупь.</div>
+				<div class="read-more"><a href="/catalog/postelnoe_bele/perkal/vivaldi_1_/">Читать далее</a></div>
+			</div>
+		</div>
+
+		
+		<div class="comment-item">
+										<div class="comment-image no_photo"></div>
+						<div class="comment-text-block">
+				<div class="name">людмила</div>
+				<div class="date">05.04.2017</div>
+				<div class="text">рисунок ткани полностью соответствует, но на фото лучше. В 2-х спальном наволочки из светлой части ткани. После стирки тоненькие веточки и листики белые на черном не полиняли, цвет не изменился. </div>
+				<div class="read-more"><a href="/catalog/postelnoe_bele/perkal/muzey_5/">Читать далее</a></div>
+			</div>
+		</div>
+
+		
+		<div class="comment-item">
+										<div class="comment-image no_photo"></div>
+						<div class="comment-text-block">
+				<div class="name">Александра</div>
+				<div class="date">06.03.2017</div>
+				<div class="text">заказывала 2 года назад комплект качество супер .рекомендую!!!!!!</div>
+				<div class="read-more"><a href="/catalog/postelnoe_bele/byaz/lebedinoe_ozero_1/">Читать далее</a></div>
+			</div>
+		</div>
+
+		
+		<div class="comment-item">
+										<div class="comment-image no_photo"></div>
+						<div class="comment-text-block">
+				<div class="name">Ксения</div>
+				<div class="date">25.01.2017</div>
+				<div class="text">Чудесное белье, гладкое, мягкое, выглядит превосходно.</div>
+				<div class="read-more"><a href="/catalog/postelnoe_bele/strayp_satin/snezhana/">Читать далее</a></div>
+			</div>
+		</div>
+
+		
+		<div class="comment-item">
+										<div class="comment-image no_photo"></div>
+						<div class="comment-text-block">
+				<div class="name">Наталья</div>
+				<div class="date">11.01.2017</div>
+				<div class="text">Сегодня привезли этот комплект, красивый,качество наивысшее! А смотрится дома даже лучше,чем на фото. Я заказывала 2 комплекта в этот раз. Один этот- ШИК и второй ВЛЮБЛЁННОСТЬ,о втором есть так же мой отзыв,под фотографией. Тут о комплектах ЗИМА-ЛЕТО никто отзывы не оставлял,мне страшновато было заказывать,т.к. я понятия не имела что это такое. Этим комплектам теперь я и буду отдавать предпочтение. И заказывать в этом магазине,СПАСИБО!!!!</div>
+				<div class="read-more"><a href="/catalog/postelnoe_bele/byaz_zima_leto/shik_zima_leto/">Читать далее</a></div>
+			</div>
+		</div>
+
+		
+		<div class="comment-item">
+										<div class="comment-image no_photo"></div>
+						<div class="comment-text-block">
+				<div class="name">Наталья</div>
+				<div class="date">11.01.2017</div>
+				<div class="text">Великолепный комплект!!! Большое спасибо магазину!!! Пододеяльник на молнии,со стороны ЗИМА пододеяльник простёган очень красивой строчкой внутри холофайбером,(очень на него на ощупь похоже)Со стороны ЛЕТО пододеяльник без простёжки как и простыня и наволочки всё НУ ПРОСТО ОЧЕНЬ ПОНРАВИЛОСЬ!!!!!! Отличное качество, спасибо. Заказываю тут уже года 3 и ни разу не разочаровали.</div>
+				<div class="read-more"><a href="/catalog/postelnoe_bele/byaz_zima_leto/vlyublennost_zima_leto/">Читать далее</a></div>
+			</div>
+		</div>
+
+		
+		<div class="comment-item">
+										<div class="comment-image no_photo"></div>
+						<div class="comment-text-block">
+				<div class="name">Елена</div>
+				<div class="date">26.12.2016</div>
+				<div class="text">Потрясающее покрывало, качество отменное. Цена приятно удивляет для такого отличного качества. За работу менеджеров - отдельное спасибо!!! Быстро, вежливо!!!</div>
+				<div class="read-more"><a href="/catalog/pokryvala/pokryvalo_venzel/">Читать далее</a></div>
+			</div>
+		</div>
+
+		
+		<div class="comment-item">
+										<div class="comment-image no_photo"></div>
+						<div class="comment-text-block">
+				<div class="name">Галина</div>
+				<div class="date">21.12.2016</div>
+				<div class="text">Комплект великолепный. Ткань очень нежная. Размеры совпадают  с заказанными. Честно говоря ждала с опаской т.к. перед этим заказывала в Артпостели и была сильно разочарована  бельем. Спасибо вашему магазину за качество и сервис. Жду новых поступлений, буду заказывать еще.</div>
+				<div class="read-more"><a href="/catalog/postelnoe_bele/satin/bakardi_1_1/">Читать далее</a></div>
+			</div>
+		</div>
+
+		
+		<div class="comment-item">
+										<div class="comment-image no_photo"></div>
+						<div class="comment-text-block">
+				<div class="name">Милана</div>
+				<div class="date">15.12.2016</div>
+				<div class="text">Замечательное полотенце!!</div>
+				<div class="read-more"><a href="/catalog/polotentsa/vafelnye/folklor_50kh60/">Читать далее</a></div>
+			</div>
+		</div>
+
+		
+		<div class="comment-item">
+										<div class="comment-image no_photo"></div>
+						<div class="comment-text-block">
+				<div class="name">Валентина Ивановна</div>
+				<div class="date">07.12.2016</div>
+				<div class="text">Очень нежная ткань, такого сатина еще не видела, мягкий, шелковистый, хорошо гладится. после 8 стирок как в первый день!</div>
+				<div class="read-more"><a href="/catalog/postelnoe_bele/satin/kashmir_1/">Читать далее</a></div>
+			</div>
+		</div>
+
+		
+		<div class="comment-item">
+										<div class="comment-image no_photo"></div>
+						<div class="comment-text-block">
+				<div class="name">Таня</div>
+				<div class="date">05.12.2016</div>
+				<div class="text">Замечательные полотенца, влагу впитывают очень хорошо, цвет яркий не линяет даже после стирки в 60с градусах. Спасибо !</div>
+				<div class="read-more"><a href="/catalog/polotentsa/makhrovye_1/goluboe/">Читать далее</a></div>
+			</div>
+		</div>
+
+		
+		<div class="comment-item">
+										<div class="comment-image no_photo"></div>
+						<div class="comment-text-block">
+				<div class="name">Марина</div>
+				<div class="date">05.12.2016</div>
+				<div class="text">Очень красиво подобраны цвета комплекта, постелька оправдала все ожидания! Спасибо! </div>
+				<div class="read-more"><a href="/catalog/postelnoe_bele/perkal/venzel_1/">Читать далее</a></div>
+			</div>
+		</div>
+
+		
+		<div class="comment-item">
+										<div class="comment-image no_photo"></div>
+						<div class="comment-text-block">
+				<div class="name">Рита</div>
+				<div class="date">02.12.2016</div>
+				<div class="text">Приезжала покупать на складе, потому что хотела сперва пощупать, а потом купить, не всегда получаешь то, что ожидаешь. Редкость, но комплект оправдал все ожидания, рисунок симпатичнее чем на фото, а материал просто шикарен! Спасибо!!!</div>
+				<div class="read-more"><a href="/catalog/postelnoe_bele/satin/kashmir_1/">Читать далее</a></div>
+			</div>
+		</div>
+
+		
+		<div class="comment-item">
+										<div class="comment-image no_photo"></div>
+						<div class="comment-text-block">
+				<div class="name">Юлия</div>
+				<div class="date">01.12.2016</div>
+				<div class="text">Отличный комплект, мне понравилось сочетание цветов, ткань мягкая. 
+Бязь теперь не хочется стелить, перкаль лучше.</div>
+				<div class="read-more"><a href="/catalog/postelnoe_bele/perkal/venzel_1/">Читать далее</a></div>
+			</div>
+		</div>
+
+		
+		<div class="comment-item">
+										<div class="comment-image no_photo"></div>
+						<div class="comment-text-block">
+				<div class="name">Полина</div>
+				<div class="date">28.11.2016</div>
+				<div class="text">Самое лучшее постельное белье!!!! Этот комплект покупала два года назад, решила купить в подарок, уж очень в нем ткань приятная! </div>
+				<div class="read-more"><a href="/catalog/postelnoe_bele/satin/kashmir_1/">Читать далее</a></div>
+			</div>
+		</div>
+
+		
+		<div class="comment-item">
+										<div class="comment-image no_photo"></div>
+						<div class="comment-text-block">
+				<div class="name">Татьяна</div>
+				<div class="date">25.11.2016</div>
+				<div class="text">Я в восторге!!! Супер комплект! </div>
+				<div class="read-more"><a href="/catalog/postelnoe_bele/satin/kashmir_1/">Читать далее</a></div>
+			</div>
+		</div>
+
+		
+		<div class="comment-item">
+										<div class="comment-image no_photo"></div>
+						<div class="comment-text-block">
+				<div class="name">Вера</div>
+				<div class="date">23.11.2016</div>
+				<div class="text">Покупала 2 покрывала внукам,качество отличное,рисунок 
+милый,легкие и теплые. Сейчас хочу и себе заказать с другим рисунком. </div>
+				<div class="read-more"><a href="/catalog/pokryvala/pokryvalo_detskoe_milyy_drug/">Читать далее</a></div>
+			</div>
+		</div>
+
+		
+		<div class="comment-item">
+										<div class="comment-image no_photo"></div>
+						<div class="comment-text-block">
+				<div class="name">Наталья</div>
+				<div class="date">31.08.2016</div>
+				<div class="text">Великолепный комплект!!!Ткань тонкая и в то же время прочная,расцветка изумительная -нежно-розовая,прислали на третий день,спасибо за такую красоту Иза безупречный сервис!!!</div>
+				<div class="read-more"><a href="/catalog/postelnoe_bele/perkal/tyulpany_1/">Читать далее</a></div>
+			</div>
+		</div>
+
+		
+		<div class="comment-item">
+										<div class="comment-image no_photo"></div>
+						<div class="comment-text-block">
+				<div class="name">Ирина</div>
+				<div class="date">21.07.2016</div>
+				<div class="text">больше недели ждала когда поступит в продажу, ожидания были сполна оправданы. Цвет и рисунок один в один как на картинке, теперь мой самый любимый комплект. Спасибо!</div>
+				<div class="read-more"><a href="/catalog/postelnoe_bele/perkal/muzey_6/">Читать далее</a></div>
+			</div>
+		</div>
+
+		
+		<div class="comment-item">
+										<div class="comment-image no_photo"></div>
+						<div class="comment-text-block">
+				<div class="name">Людмила</div>
+				<div class="date">21.07.2016</div>
+				<div class="text">Великолепный комплект, все как я ожидала, и ткань приятная на ощупь и рисунок красивый! Доставили на следующий день.</div>
+				<div class="read-more"><a href="/catalog/postelnoe_bele/perkal/venzel_1/">Читать далее</a></div>
+			</div>
+		</div>
+
+		
+		<div class="comment-item">
+										<div class="comment-image no_photo"></div>
+						<div class="comment-text-block">
+				<div class="name">Наталия Алексеевна</div>
+				<div class="date">19.07.2016</div>
+				<div class="text">Качество отменно-несносимое. Когда  то набирала по отдельности комплект. Он самый любимый из того, что имею</div>
+				<div class="read-more"><a href="/catalog/postelnoe_bele/strayp_satin/lavanda/">Читать далее</a></div>
+			</div>
+		</div>
+
+		
+		<div class="comment-item">
+										<div class="comment-image no_photo"></div>
+						<div class="comment-text-block">
+				<div class="name">Эльвира Владимировна</div>
+				<div class="date">28.06.2016</div>
+				<div class="text">Комплект выглядит лучше, чем на фото. Весь просветленный, акварельно голубой. Главное теперь, не испортить впечатление стиркой...</div>
+				<div class="read-more"><a href="/catalog/postelnoe_bele/perkal/nimfa_1/">Читать далее</a></div>
+			</div>
+		</div>
+
+		
+		<div class="comment-item">
+										<div class="comment-image no_photo"></div>
+						<div class="comment-text-block">
+				<div class="name">тимур </div>
+				<div class="date">01.06.2016</div>
+				<div class="text">купил постельного  очень хорошие качества доставили очень быстро и сталь часто заказывать рекомендую  всем СПАСИБО ПРОИЗВОДИТЕЛЮ !!!!  </div>
+				<div class="read-more"><a href="/catalog/postelnoe_bele/byaz/siti_2/">Читать далее</a></div>
+			</div>
+		</div>
+
+		
+		<div class="comment-item">
+										<div class="comment-image no_photo"></div>
+						<div class="comment-text-block">
+				<div class="name">Светлана</div>
+				<div class="date">25.05.2016</div>
+				<div class="text">Комплект понравился. Цвет ярче чем на фото,но это не плохо. Качество тоже порадовало. Доставили быстро.</div>
+				<div class="read-more"><a href="/catalog/postelnoe_bele/satin/imperatritsa_1/">Читать далее</a></div>
+			</div>
+		</div>
+
+		
+		<div class="comment-item">
+										<div class="comment-image no_photo"></div>
+						<div class="comment-text-block">
+				<div class="name">Елена</div>
+				<div class="date">13.05.2016</div>
+				<div class="text">Доставили быстро ,без утомительных ожиданий. Покрывало качественное, приятное на ощупь.Разумное соотношение цены и качества.Правда цвет не  близок к заявленному бежевому. Но это дело восприятия.</div>
+				<div class="read-more"><a href="/catalog/pokryvala/pokryvalo_muzey_6/">Читать далее</a></div>
+			</div>
+		</div>
+
+		
+		<div class="comment-item">
+										<div class="comment-image no_photo"></div>
+						<div class="comment-text-block">
+				<div class="name">Рано</div>
+				<div class="date">11.04.2016</div>
+				<div class="text">Мой самый любимы комплект! пользуюсь уже больше года, не выцветает, сохраняет свою текстуру, ни смотря на частые стирки. Я довольна!</div>
+				<div class="read-more"><a href="/catalog/postelnoe_bele/byaz/mikado_4_/">Читать далее</a></div>
+			</div>
+		</div>
+
+		
+		<div class="comment-item">
+										<div class="comment-image no_photo"></div>
+						<div class="comment-text-block">
+				<div class="name">Елена</div>
+				<div class="date">23.03.2016</div>
+				<div class="text">Заказала этот комплект, только по желанию сына, но после получения осталась им довольна. Удивительная работа художника. Необыкновенно подобраны цвета, рисунок на простыни, волки совсем не агрессивные. Комплект не стандартный, но при этом очень симпатичный. Мне кажется подходит для подростков, дачи и для разнообразия. </div>
+				<div class="read-more"><a href="">Читать далее</a></div>
+			</div>
+		</div>
+
+		
+		<div class="comment-item">
+										<div class="comment-image no_photo"></div>
+						<div class="comment-text-block">
+				<div class="name">Ирина</div>
+				<div class="date">02.03.2016</div>
+				<div class="text">Заказывала данный комплект (тип- семейный), пришел достаточно быстро, все качественно упаковано. Комплект обалденный, кач-во ткани тоже, необычайно мягкий и шелковистый материал. Цвет в реальности потемнее, оттенок больше бежевый-фисташковый, но смотрится еще богаче из-за насыщенности цвета.</div>
+				<div class="read-more"><a href="/catalog/postelnoe_bele/strayp_satin/arfa/">Читать далее</a></div>
+			</div>
+		</div>
+
+			</div>
+</div>				</div>
+			</main>
+		</div>
+				<footer class="footer index">
+			<div class="footer-top-container">
+				<div class="footer-top row">
+					<div class="social-block">
+						<div class="social-title">Текс-Дизайн в  соцсетях:</div>
+						<ul class="social-list">
+							<li data-type="vk" class="social_share vk"><a href="" title=""></a></li>
+							<li data-type="fb" class="social_share facebook"><a href="" title=""></a></li>
+							<li data-type="tw" class="social_share twitter"><a href="" title=""></a></li>
+							<li data-type="ok" class="social_share dno"><a href="" title=""></a></li>
+						</ul>
+					</div>
+					<ul class="footer-menu row">
+						<li>
+							<a href="/company/" title="">О КОМПАНИИ</a>
+	<ul class="submenu">
+									<li><a href="/about/">О нас</a></li>
+												<li><a href="/news/">Новости</a></li>
+												<li><a href="/action/">Акции</a></li>
+												<li><a href="/article/">Статьи</a></li>
+												<li><a href="/pay/">Оплата</a></li>
+												<li><a href="/delivery/">Доставка</a></li>
+												<li><a href="/contacts/">Контакты</a></li>
+						</ul>
+						</li>
+							<ul class="footer-menu row">
+									<li>
+					<a href="/catalog/postelnoe_bele/">Постельное белье <span></span></a>
+					<ul class="submenu">
+															<li>
+					<a href="/catalog/postelnoe_bele/byaz/">Бязь</a>
+				</li>
+															<li>
+					<a href="/catalog/postelnoe_bele/byaz_zima_leto/">Бязь зима-лето</a>
+				</li>
+															<li>
+					<a href="/catalog/postelnoe_bele/perkal/">Перкаль</a>
+				</li>
+															<li>
+					<a href="/catalog/postelnoe_bele/satin/">Сатин</a>
+				</li>
+															<li>
+					<a href="/catalog/postelnoe_bele/strayp_satin/">Страйп-сатин</a>
+				</li>
+															<li>
+					<a href="/catalog/postelnoe_bele/detskaya_byaz/">Детская бязь</a>
+				</li>
+															<li>
+					<a href="/catalog/postelnoe_bele/na_rezinke_1/">На резинке</a>
+				</li>
+															<li>
+					<a href="/catalog/postelnoe_bele/detskaya_kulirka/">Детская кулирка</a>
+				</li>
+						</ul></li>									<li>
+					<a href="/catalog/prostyni/">Простыни <span></span></a>
+					<ul class="submenu">
+															<li>
+					<a href="/catalog/prostyni/na_rezinke/">На резинке</a>
+				</li>
+															<li>
+					<a href="/catalog/prostyni/makhrovye/">Махровые</a>
+				</li>
+						</ul></li>									<li>
+					<a href="/catalog/polotentsa/">Полотенца <span></span></a>
+					<ul class="submenu">
+															<li>
+					<a href="/catalog/polotentsa/makhrovye_1/">Махровые</a>
+				</li>
+															<li>
+					<a href="/catalog/polotentsa/vafelnye/">Вафельные</a>
+				</li>
+															<li>
+					<a href="/catalog/polotentsa/nabory/">Наборы</a>
+				</li>
+						</ul></li>									<li>
+					<a href="/catalog/pledy/">Пледы <span></span></a>
+					<ul class="submenu">
+															<li>
+					<a href="/catalog/pledy/velsoft/">Велсофт</a>
+				</li>
+															<li>
+					<a href="/catalog/pledy/vyazanyy/">Вязаный</a>
+				</li>
+						</ul></li>									<li>
+					<a href="/catalog/pokryvala/">Покрывала <span></span></a>
+					<ul class="submenu">
+															<li>
+					<a href="/catalog/pokryvala/satin_1/">Сатин</a>
+				</li>
+															<li>
+					<a href="/catalog/pokryvala/perkal_1/">Перкаль</a>
+				</li>
+															<li>
+					<a href="/catalog/pokryvala/byaz_1/">Бязь</a>
+				</li>
+															<li>
+					<a href="/catalog/pokryvala/detskie/">Детские</a>
+				</li>
+						</ul></li>									<li>
+					<a href="/catalog/odeyala/">Одеяла <span></span></a>
+					<ul class="submenu">
+															<li>
+					<a href="/catalog/odeyala/bambuk_khlopok/">Бамбук-хлопок</a>
+				</li>
+															<li>
+					<a href="/catalog/odeyala/len_khlopok/">Лен-хлопок</a>
+				</li>
+						</ul></li>									<li>
+					<a href="/catalog/dlya_kukhni/">Для кухни <span></span></a>
+					<ul class="submenu">
+															<li>
+					<a href="/catalog/dlya_kukhni/skaterti/">Скатерти</a>
+				</li>
+															<li>
+					<a href="/catalog/dlya_kukhni/salfetki/">Салфетки</a>
+				</li>
+															<li>
+					<a href="/catalog/dlya_kukhni/nabory_1/">Наборы</a>
+				</li>
+						</ul></li>									<li>
+					<a href="/catalog/navolochki/">Наволочки <span></span></a>
+					<ul class="submenu">
+															<li>
+					<a href="/catalog/navolochki/trikotazhnye/">Трикотажные</a>
+				</li>
+															<li>
+					<a href="/catalog/navolochki/perkal_2/">Перкаль</a>
+				</li>
+															<li>
+					<a href="/catalog/navolochki/strayp_satin_1/">Страйп-сатин</a>
+				</li>
+															<li>
+					<a href="/catalog/navolochki/satin_2/">Сатин</a>
+				</li>
+						</ul></li>			</ul>
+					</ul>
+				</div>
+			</div>
+			<div class="footer-middle-container">
+				<div class="footer-middle row">
+	<!--<div id="asd_subscribe_res" style="display: none;"></div>-->
+	<form action="/?utm_source=texdesign&amp;utm_medium=site&amp;utm_campaign=menu" method="post" id="asd_subscribe_form">
+		<input type="hidden" name="sessid" id="sessid" value="" />		<input type="hidden" name="asd_subscribe" value="Y" />
+		<input type="hidden" name="charset" value="UTF-8" />
+		<input type="hidden" name="site_id" value="s1" />
+		<input type="hidden" name="asd_rubrics" value="1" />
+		<input type="hidden" name="asd_show_rubrics" value="N" />
+		<input type="hidden" name="asd_not_confirm" value="Y" />
+		<input type="hidden" name="asd_key" value="42ef02a1359abe515262f58b821c6d5d" />
+		<div class="subscribe-block">
+		<div class="title">Подписаться на рассылку новостей, новинок и акций:</div>
+			<input type="text" name="asd_email" value=""  placeholder="Ваш e-mail"/>
+			<button type="submit" onclick="if(typeof(yaCounter21397981)!== 'undefined'){ yaCounter21397981.reachGoal('email'); return true;}" name="asd_submit" id="asd_subscribe_submit" value="&nbsp;" class="subscribe-button">Подписаться</button>
+		</div>
+			</form>
+</div>
+
+					</div>
+			<div class="footer-bottom-container">
+				<div class="footer-bottom row">
+					<div class="coloumn">
+						<div class="logo"></div>
+						<div class="copyright">
+							Copyright © 2013-2017 texdesign-shop.ru						</div>
+					</div>
+					<div class="coloumn">
+						<div class="phone-block">
+							<div class="phone">
+								8(495)768-26-40							</div>
+							<div class="recall-block"><a href="javascript: void(0)" class="popup" rel="popup-recall">Заказать обратный звонок</a></div>
+						</div>
+						<div class="email-block">
+							<a href="mailto:info@texdesign-shop.ru?subject=feedback" "info@texdesign-shop.ru"="">info@texdesign-shop.ru</a>						</div>
+					</div>
+					<div class="coloumn">
+						<div class="adress-block">
+						г. Москва, Костомаровский переулок, дом 3, стр. 6 (станция метро «Курская»)						</div>
+						<div class="time-work">Режим работы: <br/>
+							пн.-пт.: с 8:00 до 17:00						</div>
+					</div>
+					<div class="coloumn">
+						<div class="paypal">
+							Принимаем к оплате:
+							<ul class="paypal-list">
+								<li class="mastercard"></li>
+								<li class="visa"></li>
+							</ul>
+						</div>
+						<a href="http://cadesign.ru" class="cadesign">Создание сайта -</a>
+					</div>
+					<div id="bx-composite-banner"></div>
+				</div>
+			</div>
+		</footer>
+<div id="composite">
+	</div>
+
+<!-- Yandex.Metrika counter -->
+<noscript><div><img src="https://mc.yandex.ru/watch/21397981" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
+<!-- /Yandex.Metrika counter -->
+<!-- BEGIN JIVOSITE CODE {literal} -->
+<!-- {/literal} END JIVOSITE CODE -->
+<script type="text/javascript">if(!window.BX)window.BX={message:function(mess){if(typeof mess=='object') for(var i in mess) BX.message[i]=mess[i]; return true;}};</script>
+<script type="text/javascript">(window.BX||top.BX).message({'JS_CORE_LOADING':'Загрузка...','JS_CORE_NO_DATA':'- Нет данных -','JS_CORE_WINDOW_CLOSE':'Закрыть','JS_CORE_WINDOW_EXPAND':'Развернуть','JS_CORE_WINDOW_NARROW':'Свернуть в окно','JS_CORE_WINDOW_SAVE':'Сохранить','JS_CORE_WINDOW_CANCEL':'Отменить','JS_CORE_WINDOW_CONTINUE':'Продолжить','JS_CORE_H':'ч','JS_CORE_M':'м','JS_CORE_S':'с','JSADM_AI_HIDE_EXTRA':'Скрыть лишние','JSADM_AI_ALL_NOTIF':'Показать все','JSADM_AUTH_REQ':'Требуется авторизация!','JS_CORE_WINDOW_AUTH':'Войти','JS_CORE_IMAGE_FULL':'Полный размер'});</script>
+<script type="text/javascript">(window.BX||top.BX).message({'LANGUAGE_ID':'ru','FORMAT_DATE':'DD.MM.YYYY','FORMAT_DATETIME':'DD.MM.YYYY HH:MI:SS','COOKIE_PREFIX':'BITRIX_SM','SERVER_TZ_OFFSET':'10800','SITE_ID':'s1','SITE_DIR':'/'});</script><script type="text/javascript" src="/bitrix/cache/js/s1/texdesign_adapt/kernel_main/kernel_main.js?1496989154278939"></script>
+<script type="text/javascript" src="/bitrix/js/main/core/core_db.min.js?14738382075048"></script>
+<script type="text/javascript" src="/bitrix/js/main/core/core_frame_cache.min.js?147383825711191"></script>
+<script type="text/javascript" src="/bitrix/js/main/ajax.min.js?147029482622194"></script>
+<script type="text/javascript">BX.setJSList(['/bitrix/js/main/core/core.js?147383826173480','/bitrix/js/main/core/core_ajax.js?147383826321031','/bitrix/js/main/json/json2.min.js?14702948263467','/bitrix/js/main/core/core_ls.js?14702948267365','/bitrix/js/main/core/core_fx.js?14702948269592','/bitrix/js/main/core/core_popup.js?147383825929812','/bitrix/js/main/session.js?14702948262511','/bitrix/js/main/core/core_window.js?147383820774754','/bitrix/js/main/core/core_date.js?147383825734241','/bitrix/js/main/utils.js?147029482619858','/bitrix/templates/texdesign_adapt/js/jquery-1.9.0.min.js?148664395793068','/bitrix/templates/texdesign_adapt/js/jquery.jcarousel.min.js?148664395817169','/bitrix/templates/texdesign_adapt/js/owl.carousel.min.js?148664395840401','/bitrix/templates/texdesign_adapt/js/jquery.fancybox.pack.js?148664395723135','/bitrix/templates/texdesign_adapt/js/jquery.slides.min.js?148664395811646','/bitrix/templates/texdesign_adapt/js/jquery.mask.js?148664395820113','/bitrix/templates/texdesign_adapt/js/jquery.tinyscrollbar.min.js?14866439582952','/bitrix/templates/texdesign_adapt/js/jquery-ui.min.js?148664395723170','/bitrix/templates/texdesign_adapt/js/soc.js?14866439585942','/bitrix/templates/texdesign_adapt/js/js.cookie.js?14866439583139','/bitrix/templates/texdesign_adapt/js/script.js?149390157926495','/bitrix/templates/texdesign_adapt/components/texdesign/subscribe.quick.form/template1/script.js?14866439491310','/bitrix/templates/texdesign_adapt/components/bitrix/sale.basket.basket/mini_basket/script.js?148664394228518']); </script>
+<script type="text/javascript">BX.setCSSList(['/bitrix/js/main/core/css/core.css?14702948262854','/bitrix/js/main/core/css/core_popup.css?147383826329699','/bitrix/js/main/core/css/core_date.css?14738382579657','/bitrix/templates/.default/ajax/ajax.css?1470294843420','/bitrix/templates/texdesign_adapt/components/bitrix/news.list/recall-main/style.css?1486643936108','/bitrix/templates/texdesign_adapt/template_styles.css?149822229388261','/bitrix/templates/texdesign_adapt/components/bitrix/sale.basket.basket/mini_basket/style.css?148664394230652']); </script>
+<script type="text/javascript">
+					(function () {
+						"use strict";
+
+						var counter = function ()
+						{
+							var cookie = (function (name) {
+								var parts = ("; " + document.cookie).split("; " + name + "=");
+								if (parts.length == 2) {
+									try {return JSON.parse(decodeURIComponent(parts.pop().split(";").shift()));}
+									catch (e) {}
+								}
+							})("BITRIX_CONVERSION_CONTEXT_s1");
+
+							if (! cookie || cookie.EXPIRE < BX.message("SERVER_TIME"))
+							{
+								var request = new XMLHttpRequest();
+								request.open("POST", "/bitrix/tools/conversion/ajax_counter.php", true);
+								request.setRequestHeader("Content-type", "application/x-www-form-urlencoded");
+								request.send(
+									"SITE_ID="      + encodeURIComponent(BX.message("SITE_ID")) + "&" +
+									"sessid="       + encodeURIComponent(BX.bitrix_sessid())    + "&" +
+									"HTTP_REFERER=" + encodeURIComponent(document.referrer)
+								);
+							}
+						};
+
+						if (window.frameRequestStart === true)
+							BX.addCustomEvent("onFrameDataReceived", counter);
+						else
+							BX.ready(counter);
+					})();
+				</script>
+
+
+
+<script type="text/javascript" src="/bitrix/cache/js/s1/texdesign_adapt/template_a22af8142ad6ff1f741ab8ca4d6dd95f/template_a22af8142ad6ff1f741ab8ca4d6dd95f.js?1496923302272391"></script>
+<script type="text/javascript" src="/bitrix/cache/js/s1/texdesign_adapt/default_92e3474b75b2fec0a66b37470efb9b65/default_92e3474b75b2fec0a66b37470efb9b65.js?149692330228944"></script>
+<script type="text/javascript">var _ba = _ba || []; _ba.push(["aid", "57f9efd5f86fe36395ea31e35b3a2614"]); _ba.push(["host", "texdesign-shop.ru"]); (function() {var ba = document.createElement("script"); ba.type = "text/javascript"; ba.async = true;ba.src = (document.location.protocol == "https:" ? "https://" : "http://") + "bitrix.info/ba.js";var s = document.getElementsByTagName("script")[0];s.parentNode.insertBefore(ba, s);})();</script>
+
+
+<script>
+			(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+					(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+				m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+			})(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+			ga('create', 'UA-38372903-2', 'auto');
+			ga('send', 'pageview');
+
+		</script>
+<script>
+	$(function() {
+		$('.report-submit').click(function() {
+            if (!$("#pdn_checkbox:checked").length) {
+                $("#pdn_checkbox+label").css('color', 'red');
+                $("#pdn_checkbox+label a").css('color', 'red');
+
+                return false;
+            }
+			var name = $('.rep-name').val();
+			var mail = $('.report-mail').val();
+			var product = $('.report-name').val();
+			$.ajax({
+				type: "POST",
+				url: "/ajax/supply_report.php",
+				data: {name: name, mail: mail, product:product},
+				success: function(data) {
+					$('.report-responce-wrapper').html(data);
+					if($('.report-responce-wrapper').find('.notetext').html())
+						$('.report-submit').hide();
+				}
+			});
+			return false;
+		});
+
+	});
+</script>
+<script type="text/javascript">
+    (function (d, w, c) {
+        (w[c] = w[c] || []).push(function() {
+            try {
+                w.yaCounter21397981 = new Ya.Metrika({
+                    id:21397981,
+                    clickmap:true,
+                    trackLinks:true,
+                    accurateTrackBounce:true,
+                    webvisor:true,
+                    ecommerce:"dataLayer"
+                });
+            } catch(e) { }
+        });
+
+        var n = d.getElementsByTagName("script")[0],
+            s = d.createElement("script"),
+            f = function () { n.parentNode.insertBefore(s, n); };
+        s.type = "text/javascript";
+        s.async = true;
+        s.src = "https://mc.yandex.ru/metrika/watch.js";
+
+        if (w.opera == "[object Opera]") {
+            d.addEventListener("DOMContentLoaded", f, false);
+        } else { f(); }
+    })(document, window, "yandex_metrika_callbacks");
+</script>
+<script type='text/javascript'>
+	(function(){ var widget_id = 'Tq8f0XTTXw';var d=document;var w=window;function l(){
+		var s = document.createElement('script'); s.type = 'text/javascript'; s.async = true; s.src = '//code.jivosite.com/script/widget/'+widget_id; var ss = document.getElementsByTagName('script')[0]; ss.parentNode.insertBefore(s, ss);}if(d.readyState=='complete'){l();}else{if(w.attachEvent){w.attachEvent('onload',l);}else{w.addEventListener('load',l,false);}}})();</script>
+<script>
+	(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+			(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+		m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+	})(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+	ga('create', 'UA-87677239-1', 'auto');
+	ga('send', 'pageview');
+
+</script>
+</body>
+</html><!--dc338b108e41e7bd26537f5d8c707775-->
